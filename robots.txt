@@ -1,0 +1,22 @@
+# robots.txt
+# @url: http://sante.gouv.fr
+# @template: plugins/site/squelettes/mass_squelette/v1/robots.txt.html
+
+User-agent: Twitterbot
+Disallow: /local/
+Allow: /local/cache-gd2/
+Allow: /local/cache-vignettes/
+User-agent: *
+Allow:    /local/cache-css/
+Allow:    /local/cache-js/
+Disallow: /local/
+Disallow: /ecrire/
+Disallow: /plugins-dist/
+Disallow: /lib/
+Disallow: /plugins/
+Disallow: /prive/
+Disallow: /squelettes-dist/
+Disallow: /squelettes/
+Crawl-delay: 1
+
+Sitemap: http://sante.gouv.fr/sitemap.xml

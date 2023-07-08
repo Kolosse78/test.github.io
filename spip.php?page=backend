@@ -1,0 +1,801 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" 
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+>
+
+<channel xml:lang="fr">
+	<title>Minist&#232;re de la Sant&#233; et de la Pr&#233;vention</title>
+	<link>http://sante.gouv.fr/</link>
+	<description></description>
+	<language>fr</language>
+	<generator>SPIP - www.spip.net</generator>
+
+	<image>
+		<title>Minist&#232;re de la Sant&#233; et de la Pr&#233;vention</title>
+		<url>https://sante.gouv.fr/local/cache-vignettes/L144xH116/siteon0-44e23.png?1680702231</url>
+		<link>http://sante.gouv.fr/</link>
+		<height>116</height>
+		<width>144</width>
+	</image>
+
+
+
+<item xml:lang="fr">
+		<title>Foire aux questions : r&#233;ponses cl&#233;s</title>
+		<link>https://sante.gouv.fr/grands-dossiers/vaccin-covid-19/je-suis-un-particulier/article/foire-aux-questions-reponses-cles</link>
+		<guid isPermaLink="true">https://sante.gouv.fr/grands-dossiers/vaccin-covid-19/je-suis-un-particulier/article/foire-aux-questions-reponses-cles</guid>
+		<dc:date>2021-01-15T11:49:49Z</dc:date>
+		<dc:format>text/html</dc:format>
+		<dc:language>fr</dc:language>
+		<dc:creator>Minist&#232;re de la Sant&#233; et de la Pr&#233;vention</dc:creator>
+
+
+		<dc:subject>Coronavirus</dc:subject>
+		<dc:subject>COVID-19</dc:subject>
+
+		<description>
+&lt;p&gt;R&#233;ponses cl&#233;s &lt;br class='autobr' /&gt;
+Qui peut &#234;tre vaccin&#233; ? &lt;br class='autobr' /&gt;
+Sauf contre-indication telle qu'&#233;tablie dans la liste de la Haute Autorit&#233; de sant&#233; (HAS) (reprise &#224; l'annexe du d&#233;cret n&#176; 2022-1097 du 30 juillet 2022), tout le monde peut &#234;tre vaccin&#233; contre le Covid-19 d&#232;s l'&#226;ge de 5 ans, y compris les femmes enceintes d&#232;s le 1er trimestre de grossesse (Voir la FAQ La vaccination des femmes enceintes, allaitantes ou en projet de grossesse) et les mineurs (Voir la FAQ La vaccination des mineurs). Les enfants &#226;g&#233;s de 6 mois &#224; 4 ans &#224; (&#8230;)&lt;/p&gt;
+
+
+-
+&lt;a href="https://sante.gouv.fr/grands-dossiers/vaccin-covid-19/je-suis-un-particulier/" rel="directory"&gt;Je suis un particulier&lt;/a&gt;
+
+/ 
+&lt;a href="https://sante.gouv.fr/mot/coronavirus-2347" rel="tag"&gt;Coronavirus&lt;/a&gt;, 
+&lt;a href="https://sante.gouv.fr/mot/covid-19" rel="tag"&gt;COVID-19&lt;/a&gt;
+
+		</description>
+
+
+ <content:encoded>&lt;div class='rss_texte'&gt;&lt;h3 class=&#034;spip&#034;&gt;R&#233;ponses cl&#233;s&lt;/h3&gt;&lt;div class='cs_blocs'&gt;&lt;button class='blocs_titre blocs_replie blocs_click'&gt;&lt;a href='javascript:;' class='ouvrir_fermer'&gt;Qui peut &#234;tre vaccin&#233; ?&lt;/a&gt;&lt;/button&gt;&lt;div class='blocs_destination blocs_invisible blocs_slide'&gt;
+&lt;p&gt;Sauf contre-indication telle qu'&#233;tablie dans la liste de la Haute Autorit&#233; de sant&#233; (HAS) (reprise &#224; l'annexe du &lt;a href=&#034;https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000046115124&#034; class='spip_out' rel='external'&gt;d&#233;cret n&#176; 2022-1097 du 30 juillet 2022&lt;/a&gt;), tout le monde peut &#234;tre vaccin&#233; contre le Covid-19 d&#232;s l'&#226;ge de 5 ans, y compris les femmes enceintes d&#232;s le 1er trimestre de grossesse (Voir la FAQ &lt;a href='https://sante.gouv.fr/grands-dossiers/vaccin-covid-19/je-suis-un-particulier/article/foire-aux-questions-la-vaccination-des-femmes-enceintes-allaitantes-ou-en' class='spip_in'&gt;La vaccination des femmes enceintes, allaitantes ou en projet de grossesse&lt;/a&gt;) et les mineurs (Voir la FAQ &lt;a href='https://sante.gouv.fr/grands-dossiers/vaccin-covid-19/je-suis-un-particulier/la-vaccination-des-enfants' class='spip_in'&gt;La vaccination des mineurs&lt;/a&gt;). Les enfants &#226;g&#233;s de 6 mois &#224; 4 ans &#224; risque de forme grave ou vivant dans l'entourage d'une personne immunod&#233;prim&#233;e peuvent &#233;galement &#234;tre vaccin&#233;s contre le Covid-19. Voir la FAQ &lt;a href='https://sante.gouv.fr/grands-dossiers/vaccin-covid-19/je-suis-un-particulier/la-vaccination-des-enfants' class='spip_in'&gt;La vaccination des mineurs&lt;/a&gt;.&lt;/p&gt;
+&lt;h4 class=&#034;spip&#034;&gt;Les particuliers concern&#233;s&lt;/h4&gt;
+&lt;p&gt;&lt;span class='spip_document_370656 spip_documents spip_documents_center'&gt;
+&lt;a href='https://sante.gouv.fr/IMG/pdf/infographie_quel_vaccin_pour_quel_public.pdf' class=&#034;spip_in&#034;&gt;&lt;img src='https://sante.gouv.fr/local/cache-vignettes/L500xH707/infographie_quel_vaccin_pour_quel_public-369a2.png?1683025151' width='500' height='707' alt=&#034;Infographie : La vaccination : quel vaccin selon ma situation&#034; title=&#034;Infographie : La vaccination : quel vaccin selon ma situation&#034; /&gt;&lt;/a&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href='https://sante.gouv.fr/grands-dossiers/vaccin-covid-19/je-suis-un-particulier/article/infographie-quels-vaccins-pour-quel-public' class='spip_in'&gt;L'infographie : quels vaccins pour quel public cet automne ? en version texte&lt;/a&gt;&lt;/p&gt;
+&lt;/div&gt;&lt;/div&gt;&lt;div class='cs_blocs'&gt;&lt;button class='blocs_titre blocs_replie blocs_click'&gt;&lt;a href='javascript:;' class='ouvrir_fermer'&gt;De combien de doses ai-je besoin ?&lt;/a&gt;&lt;/button&gt;&lt;div class='blocs_destination blocs_invisible blocs_slide'&gt;
+&lt;p&gt;En France, il est recommand&#233; de recevoir deux doses pour disposer d'un sch&#233;ma de vaccination initial complet.&lt;/p&gt;
+&lt;p&gt;Par ailleurs, une dose de rappel contre le Covid-19 est recommand&#233;e pour certains publics dont l'immunit&#233; baisse plus rapidement avec le temps. Voir la FAQ &lt;a href='https://sante.gouv.fr/grands-dossiers/vaccin-covid-19/je-suis-un-particulier/dose-de-rappel-covid19' class='spip_in'&gt;Le rappel vaccinal&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;Selon les recommandations de la HAS du 23 f&#233;vrier 2023, une campagne de rappel sera organis&#233;e &#224; l'automne, sur le mod&#232;le de la campagne de vaccination contre la grippe saisonni&#232;re et ouverte aux m&#234;mes publics cibles, &#224; partir de 6 mois apr&#232;s la derni&#232;re injection ou infection.&lt;/p&gt;
+&lt;p&gt;S'agissant des enfants de 6 mois &#224; 4 ans &#233;ligibles &#224; la vaccination, voir la FAQ &lt;a href='https://sante.gouv.fr/grands-dossiers/vaccin-covid-19/je-suis-un-particulier/la-vaccination-des-enfants' class='spip_in'&gt;La vaccination des mineurs&lt;/a&gt;.&lt;/p&gt;
+&lt;/div&gt;&lt;/div&gt;&lt;div class='cs_blocs'&gt;&lt;button class='blocs_titre blocs_replie blocs_click'&gt;&lt;a href='javascript:;' class='ouvrir_fermer'&gt;Apr&#232;s un vaccin, au bout de combien de temps sommes-nous immunis&#233;s ?&lt;/a&gt;&lt;/button&gt;&lt;div class='blocs_destination blocs_invisible blocs_slide'&gt;
+&lt;p&gt;L'efficacit&#233; vaccinale est obtenue 7 jours apr&#232;s la derni&#232;re injection du sch&#233;ma vaccinal initial (2 doses) pour les vaccins Pfizer-BioNTech, Moderna, et Novavax. Par la suite, un rappel vaccinal est &#233;galement recommand&#233; d&#232;s 12 ans (5 ans dans certains cas particuliers) afin de maximiser l'efficacit&#233; de cette protection. Pour les rappels et avec les vaccins disponibles actuellement, il faut &#233;galement compter 7 jours pour que le vaccin soit compl&#232;tement efficace. Voir la FAQ &lt;a href='https://sante.gouv.fr/grands-dossiers/vaccin-covid-19/je-suis-un-particulier/dose-de-rappel-covid19' class='spip_in'&gt;Le rappel vaccinal&lt;/a&gt;.&lt;/p&gt;
+&lt;/div&gt;&lt;/div&gt;&lt;div class='cs_blocs'&gt;&lt;button class='blocs_titre blocs_replie blocs_click'&gt;&lt;a href='javascript:;' class='ouvrir_fermer'&gt;Pourquoi faut-il continuer de respecter les mesures barri&#232;res, m&#234;me apr&#232;s avoir &#233;t&#233; vaccin&#233; ?&lt;/a&gt;&lt;/button&gt;&lt;div class='blocs_destination blocs_invisible blocs_slide'&gt;
+&lt;p&gt;Les vaccins permettent de pr&#233;venir, lors d'une contamination, le d&#233;veloppement d'une forme grave de la maladie, et donc de prot&#233;ger celles et ceux qui sont les plus &#224; risque d'&#234;tre hospitalis&#233;s. La vaccination permet de r&#233;duire la mortalit&#233; due au virus et &#224; ses formes graves.&lt;/p&gt;
+&lt;p&gt;N&#233;anmoins, il demeure primordial, m&#234;me pour les personnes vaccin&#233;es, de continuer &#224; respecter les gestes et mesures barri&#232;res pour limiter au maximum les risques d'infection. Voir FAQ &lt;a href='https://sante.gouv.fr/soins-et-maladies/maladies/maladies-infectieuses/coronavirus/tout-savoir-sur-le-covid-19/article/les-gestes-barrieres' class='spip_in'&gt;Les gestes barri&#232;res&lt;/a&gt;.&lt;/p&gt;
+&lt;/div&gt;&lt;/div&gt;
+&lt;p&gt;&lt;a id=&#034;La-vaccination-et-l'infection-au-Covid-19&#034;&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;h3 class=&#034;spip&#034;&gt;La vaccination et l'infection au Covid-19&lt;/h3&gt;&lt;div class='cs_blocs'&gt;&lt;button class='blocs_titre blocs_replie blocs_click'&gt;&lt;a href='javascript:;' class='ouvrir_fermer'&gt;Dois-je me faire vacciner si j'ai d&#233;j&#224; &#233;t&#233; infect&#233; au Covid-19 ?&lt;/a&gt;&lt;/button&gt;&lt;div class='blocs_destination blocs_invisible blocs_slide'&gt;
+&lt;p&gt;Cela d&#233;pend du moment o&#249; vous avez &#233;t&#233; infect&#233; et du stade de votre sch&#233;ma vaccinal.&lt;/p&gt;
+&lt;p&gt;En effet, conform&#233;ment &#224; &lt;a href=&#034;https://www.has-sante.fr/jcms/p_3237271/fr/strategie-de-vaccination-contre-le-sars-cov-2-vaccination-des-personnes-ayant-un-antecedent-de-covid-19&#034; class='spip_out' rel='external'&gt;l'avis de la Haute Autorit&#233; de sant&#233; du 11 f&#233;vrier 2021&lt;/a&gt;, une infection survenue &lt;strong&gt;dans un d&#233;lai suffisant avant ou apr&#232;s une injection&lt;/strong&gt; (voir les d&#233;lais ci-dessous) peut repr&#233;senter une stimulation &#233;quivalente &#224; une injection.&lt;/p&gt;
+&lt;p&gt;&lt;strong class=&#034;caractencadre2-spip spip&#034;&gt;Si je d&#233;bute ma vaccination (sch&#233;ma initial)&lt;/strong&gt;&lt;br class='autobr' /&gt;
+Ainsi, dans le cas d'une infection survenue avant la premi&#232;re dose de vaccin : vous n'avez besoin que d'une seule dose de vaccin pour compl&#233;ter votre sch&#233;ma de vaccination initial.&lt;/p&gt;
+&lt;p&gt;Dans le cas d'une infection survenue entre la premi&#232;re et la deuxi&#232;me dose de vaccin :&lt;/p&gt;
+&lt;ul class=&#034;spip&#034;&gt;&lt;li&gt; Si vous avez &#233;t&#233; test&#233; positif moins de 15 jours apr&#232;s votre premi&#232;re injection, il est n&#233;cessaire de recevoir une deuxi&#232;me dose de vaccin.&lt;/li&gt;&lt;li&gt; Si vous avez &#233;t&#233; test&#233; positif plus de 15 jours apr&#232;s votre premi&#232;re injection, vous n'avez pas besoin de recevoir de deuxi&#232;me dose de vaccin.&lt;/li&gt;&lt;/ul&gt;
+&lt;p&gt;&lt;strong class=&#034;caractencadre2-spip spip&#034;&gt;Si je re&#231;ois un rappel&lt;/strong&gt;&lt;br class='autobr' /&gt;
+S'il s'agit de votre premier rappel :&lt;/p&gt;
+&lt;ul class=&#034;spip&#034;&gt;&lt;li&gt; Si vous avez &#233;t&#233; test&#233; positif au Covid-19 moins de 3 mois apr&#232;s la fin de votre sch&#233;ma initial (2 doses ou une dose suivie d'une infection ou une infection suivie d'une dose), vous devez recevoir votre premi&#232;re dose de rappel d&#232;s 6 mois apr&#232;s votre infection au Covid-19 ;&lt;/li&gt;&lt;li&gt; Si vous avez &#233;t&#233; test&#233; positif au Covid-19 plus de 3 mois apr&#232;s la fin de sch&#233;ma initial, cette infection peut &#234;tre consid&#233;r&#233;e comme une stimulation &#233;quivalente &#224; celle d'un premier rappel. La r&#233;alisation d'une dose de rappel n'est donc pas n&#233;cessaire dans ce cas.&lt;/li&gt;&lt;/ul&gt;
+&lt;p&gt;S'il s'agit d'une dose de rappel suppl&#233;mentaire, m&#234;me en cas d'infection r&#233;cente, il est recommand&#233; de la recevoir. Il convient toutefois de respecter un d&#233;lai de 6 mois entre l'infection (date du test positif) et l'injection de la dose de rappel additionnelle. Voir la FAQ &lt;a href='https://sante.gouv.fr/grands-dossiers/vaccin-covid-19/je-suis-un-particulier/dose-de-rappel-covid19' class='spip_in'&gt;Le rappel vaccinal&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Attention, les personnes immunod&#233;prim&#233;es ne sont pas concern&#233;es par ces recommandations. Il est recommand&#233; &#224; ces publics particuli&#232;rement vuln&#233;rables au Covid-19 de consulter un professionnel de sant&#233; afin de d&#233;terminer le parcours vaccinal le plus adapt&#233; &#224; leur situation. Voir la FAQ &lt;a href='https://sante.gouv.fr/grands-dossiers/vaccin-covid-19/je-suis-un-particulier/dose-de-rappel-covid19' class='spip_in'&gt;Le rappel vaccinal&lt;/a&gt;.&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;S'agissant des enfants de 6 mois &#224; 4 ans, voir la FAQ &lt;a href='https://sante.gouv.fr/grands-dossiers/vaccin-covid-19/je-suis-un-particulier/la-vaccination-des-enfants' class='spip_in'&gt;La vaccination des mineurs&lt;/a&gt;.&lt;/p&gt;
+&lt;/div&gt;&lt;/div&gt;&lt;div class='cs_blocs'&gt;&lt;button class='blocs_titre blocs_replie blocs_click'&gt;&lt;a href='javascript:;' class='ouvrir_fermer'&gt;Peut-on r&#233;aliser un TROD s&#233;rologique avant de se faire vacciner ?&lt;/a&gt;&lt;/button&gt;&lt;div class='blocs_destination blocs_invisible blocs_slide'&gt;
+&lt;p&gt;Les TROD s&#233;rologiques sont exclusivement r&#233;serv&#233;s aux patients qui se pr&#233;sentent pour recevoir une premi&#232;re dose de vaccin. Ces tests visent &#224; d&#233;tecter l'&#233;ventuelle pr&#233;sence d'anticorps due &#224; une infection ant&#233;rieure, et permettent aux personnes ayant un ant&#233;c&#233;dent d'infection mais qui ne disposent pas de preuve de celle-ci d'&#234;tre &#233;ligibles au sch&#233;ma de vaccination initial &#224; une dose. Dans tous les cas et apr&#232;s consultation des autorit&#233;s scientifiques, il est n&#233;cessaire d'attendre au moins 2 mois apr&#232;s la fin des sympt&#244;mes avant de proc&#233;der &#224; la primo-vaccination.&lt;br class='autobr' /&gt;
+Il reviendra au professionnel de sant&#233; en charge de l'entretien pr&#233;-vaccinal de d&#233;cider de prescrire ou non ce TROD, notamment en fonction de l'&#233;tat de sant&#233; du patient et de sa vuln&#233;rabilit&#233; face &#224; la maladie.&lt;/p&gt;
+&lt;/div&gt;&lt;/div&gt;&lt;div class='cs_blocs'&gt;&lt;button class='blocs_titre blocs_replie blocs_click'&gt;&lt;a href='javascript:;' class='ouvrir_fermer'&gt;Qu'est-ce qu'un TROD s&#233;rologique ?&lt;/a&gt;&lt;/button&gt;&lt;div class='blocs_destination blocs_invisible blocs_slide'&gt;
+&lt;p&gt;Un TROD (Test Rapide d'Orientation Diagnostique) s&#233;rologique est un test rapide permettant de d&#233;terminer si vous avez d&#233;j&#224; contract&#233; le Covid-19, en d&#233;tectant la pr&#233;sence ou l'absence d'anticorps dans votre organisme.&lt;br class='autobr' /&gt;
+Ces tests sont r&#233;alis&#233;s sur une goutte de sang pr&#233;lev&#233;e &#224; l'extr&#233;mit&#233; d'un doigt : cette goutte de sang est alors mise en contact avec un r&#233;actif qui r&#233;v&#232;le ou non la pr&#233;sence d'anticorps dirig&#233;s contre le SARS-CoV-2.&lt;/p&gt;
+&lt;div class='spip_document_374162 spip_documents spip_documents_center media video' id='media_374162_53715'&gt; &lt;video id=&#034;video_374162_53715&#034; controls preload=&#034;none&#034; width=&#034;320&#034; height=&#034;240&#034; poster=&#034;https://sante.gouv.fr/local/cache-gd2/c9/0886c689a51e55aff5a298bc2d3e7f.jpg?1680693749&#034;&gt; &lt;source type='text/oembed' src=&#034;https://sante.gouv.fr/IMG/distant/html/x83r93p-cc55cc55-d80e590.html?1629984028&#034; /&gt; &lt;/video&gt; &lt;div class='spip_doc_titre'&gt;&lt;strong&gt;Les tests s&#233;rologiques rapides en centres de vaccination&lt;/strong&gt;&lt;/div&gt; &lt;/div&gt;
+&lt;div class=&#034;base64javascript4307893064a94b1a5a3d98.23680887&#034; title=&#034;PHNjcmlwdCB0eXBlPSJ0ZXh0L2phdmFzY3JpcHQiPgooZnVuY3Rpb24oJCkgewoJdmFyIG1zX3BsYXllcl9pbml0XzM3NDE2Ml81MzcxNSA9IGZ1bmN0aW9uKCl7CgkJaWYoJCgnI3ZpZGVvXzM3NDE2Ml81MzcxNScpLnBhcmVudCgnLm1lZGlhX3dyYXBwZXInKS5zaXplKCkgPT0gMCl7CgkJCSQoJyN2aWRlb18zNzQxNjJfNTM3MTUnKS5tc19wbGF5ZXJfaW5pdCh7CgkJCQlmbG93dXJsOidodHRwczovL3NhbnRlLmdvdXYuZnIvcGx1Z2lucy9jb250cmliL21lZGlhc3BpcF9wbGF5ZXIvZmxhc2gvZmxvd3BsYXllci5zd2YnLCAKCQkJCXZvbHVtZV9zbGlkZXJfb3JpZW50YXRpb246J2hvcml6b250YWwnCgkJCX0pOwoJCX0KCX0KCSQoZnVuY3Rpb24oKXsKCQltc19wbGF5ZXJfaW5pdF8zNzQxNjJfNTM3MTUoKTsKCQkvL29uQWpheExvYWQoZnVuY3Rpb24oKXtzZXRUaW1lb3V0KGZ1bmN0aW9uKCl7bXNfcGxheWVyX2luaXRfMzc0MTYyXzUzNzE1KCk7fSw1MDApfSk7Cgl9KTsKfSkoalF1ZXJ5KTsKPC9zY3JpcHQ+&#034;&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class='cs_blocs'&gt;&lt;button class='blocs_titre blocs_replie blocs_click'&gt;&lt;a href='javascript:;' class='ouvrir_fermer'&gt;Faut-il r&#233;aliser un test RT-PCR ou antig&#233;nique avant d'&#234;tre vaccin&#233; ?&lt;/a&gt;&lt;/button&gt;&lt;div class='blocs_destination blocs_invisible blocs_slide'&gt;
+&lt;p&gt;Il n'est pas utile de se faire tester de mani&#232;re automatique avant de se faire vacciner.&lt;br class='autobr' /&gt;
+Cependant, si une personne a &#233;t&#233; r&#233;cemment en contact avec une personne contamin&#233;e, la vaccination peut &#234;tre repouss&#233;e et un test r&#233;alis&#233; pour confirmer ou non une infection. Si le test est n&#233;gatif, la vaccination pourra alors avoir lieu. Si le test est positif, il convient d'attendre au moins 2 mois apr&#232;s la fin des sympt&#244;mes pour se faire vacciner.&lt;/p&gt;
+&lt;/div&gt;&lt;/div&gt;&lt;div class='cs_blocs'&gt;&lt;button class='blocs_titre blocs_replie blocs_click'&gt;&lt;a href='javascript:;' class='ouvrir_fermer'&gt;Mon test PCR sera-t-il positif si je viens de me faire vacciner ?&lt;/a&gt;&lt;/button&gt;&lt;div class='blocs_destination blocs_invisible blocs_slide'&gt;
+&lt;p&gt;Non, la vaccination n'est en aucun cas &#224; l'origine d'un test virologique positif. Toutefois, si la vaccination permet de r&#233;duire massivement le d&#233;veloppement de formes graves de Covid-19, elle n'emp&#234;che pas de contracter une forme b&#233;nigne du virus.&lt;/p&gt;
+&lt;/div&gt;&lt;/div&gt;&lt;div class='cs_blocs'&gt;&lt;button class='blocs_titre blocs_replie blocs_click'&gt;&lt;a href='javascript:;' class='ouvrir_fermer'&gt;Je viens de me faire vacciner ou j'ai &#233;t&#233; positif au Covid-19. Puis-je donner mon sang ?&lt;/a&gt;&lt;/button&gt;&lt;div class='blocs_destination blocs_invisible blocs_slide'&gt;
+&lt;p&gt;Toute personne ayant &#233;t&#233; vaccin&#233;e contre le Covid-19 sur le territoire national peut effectuer un don du sang. Pour les personnes vaccin&#233;es &#224; l'&#233;tranger, un d&#233;lai de 28 jours doit &#234;tre respect&#233; avant de se pr&#233;senter dans un centre de collecte.&lt;br class='autobr' /&gt;
+Pour les personnes ayant &#233;t&#233; positives au Covid-19, un d&#233;lai de 28 jours doit &#234;tre respect&#233; avant de pouvoir &#224; nouveau donner son sang. Pour les cas contact avec un cas confirm&#233; ou probable qui souhaitent donner leur sang, le d&#233;lai &#224; respecter est de 14 jours.&lt;/p&gt;
+&lt;/div&gt;&lt;/div&gt;
+&lt;p&gt;&lt;a id=&#034;vaccination&#034;&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;h3 class=&#034;spip&#034;&gt;Les modalit&#233;s pratiques de la vaccination&lt;/h3&gt;&lt;div class='cs_blocs'&gt;&lt;button class='blocs_titre blocs_replie blocs_click'&gt;&lt;a href='javascript:;' class='ouvrir_fermer'&gt;Qui peut vacciner ?&lt;/a&gt;&lt;/button&gt;&lt;div class='blocs_destination blocs_invisible blocs_slide'&gt;
+&lt;p&gt;&#192; ce jour, les professionnels autoris&#233;s &#224; vacciner toutes les personnes &#224; partir de 5 ans sont :&lt;/p&gt;
+&lt;ul class=&#034;spip&#034;&gt;&lt;li&gt; Les m&#233;decins&lt;/li&gt;&lt;li&gt; Les pharmaciens ;&lt;/li&gt;&lt;li&gt; Les infirmiers ;&lt;/li&gt;&lt;li&gt; Les sage-femmes ;&lt;/li&gt;&lt;li&gt; Les chirurgiens-dentistes&lt;/li&gt;&lt;li&gt; &#8220;Nouveaux vaccinateurs&#8221; : professions du secteur m&#233;dico-social, list&#233;s dans 3 d&#233;crets : le 27 mars 2021, le 12 mai 2021 et le 7 juillet 2021.&lt;/li&gt;&lt;/ul&gt;
+&lt;p&gt;En EHPAD, les m&#233;decins coordonnateurs, les m&#233;decins traitants, les m&#233;decins lib&#233;raux, les m&#233;decins d'&#233;quipes mobiles, les IDE des EPHAD, les infirmi&#232;res lib&#233;rales et les IDE des &#233;quipes mobiles sont en mesure de vacciner les r&#233;sidents.&lt;/p&gt;
+&lt;p&gt;S'agissant des enfants de 6 mois &#224; 4 ans, voir la FAQ &lt;a href='https://sante.gouv.fr/grands-dossiers/vaccin-covid-19/je-suis-un-particulier/la-vaccination-des-enfants' class='spip_in'&gt;La vaccination des mineurs&lt;/a&gt;.&lt;/p&gt;
+&lt;/div&gt;&lt;/div&gt;&lt;div class='cs_blocs'&gt;&lt;button class='blocs_titre blocs_replie blocs_click'&gt;&lt;a href='javascript:;' class='ouvrir_fermer'&gt;La vaccination contre le Covid-19 est-elle obligatoire ?&lt;/a&gt;&lt;/button&gt;&lt;div class='blocs_destination blocs_invisible blocs_slide'&gt;
+&lt;p&gt;Non, conform&#233;ment &#224; la pr&#233;conisation de la HAS en date du &lt;a href=&#034;https://www.has-sante.fr/upload/docs/application/pdf/2023-03/obligations_et_recommandations_vaccinales_des_professionnels__actualisation_des_reco_et_obligations_pour_les_etudiants_et_pr.pdf&#034; class='spip_out' rel='external'&gt;30 mars 2023&lt;/a&gt;, l'obligation vaccinale appliqu&#233;e jusqu'alors &#224; certains professionnels est lev&#233;e par d&#233;cret &#224; compter du 15 mai 2023.&lt;/p&gt;
+&lt;/div&gt;&lt;/div&gt;&lt;div class='cs_blocs'&gt;&lt;button class='blocs_titre blocs_replie blocs_click'&gt;&lt;a href='javascript:;' class='ouvrir_fermer'&gt;Comment se d&#233;roule le recueil du consentement avant la vaccination ?&lt;/a&gt;&lt;/button&gt;&lt;div class='blocs_destination blocs_invisible blocs_slide'&gt;
+&lt;p&gt;Le consentement de la personne s'appr&#234;tant &#224; recevoir une dose de vaccin est recueilli &#224; l'oral par le professionnel de sant&#233; pendant l'entretien pr&#233;paratoire &#224; la vaccination. Le vaccinateur doit d&#233;livrer au patient une information claire, loyale et appropri&#233;e relatives &#224; la vaccination, et le patient peut donner et retirer son consentement &#224; tout moment. Il n'est pas n&#233;cessaire de confirmer son consentement par &#233;crit. &#192; noter que les mineurs de 12 &#224; 17 ans doivent recevoir une information claire et adapt&#233;e &#224; leur &#226;ge pour que leur consentement soit valide. &#192; noter que les mineurs de 12 &#224; 17 ans doivent recevoir une information claire et adapt&#233;e &#224; leur &#226;ge pour que leur consentement soit valide.&lt;/p&gt;
+&lt;p&gt;Par ailleurs, si le consentement n'est pas n&#233;cessaire pour les enfants de 5 &#224; 11 ans, ils doivent &#233;galement recevoir une information sur la vaccination claire et adapt&#233;e &#224; leur &#226;ge, afin de s'assurer de leur compr&#233;hension de la situation.&lt;/p&gt;
+&lt;/div&gt;&lt;/div&gt;&lt;div class='cs_blocs'&gt;&lt;button class='blocs_titre blocs_replie blocs_click'&gt;&lt;a href='javascript:;' class='ouvrir_fermer'&gt;Comment recueillir le consentement d'une personne hors d'&#233;tat de l'exprimer ?&lt;/a&gt;&lt;/button&gt;&lt;div class='blocs_destination blocs_invisible blocs_slide'&gt;
+&lt;p&gt;Dans le cas o&#249; une personne se trouve hors d'&#233;tat d'exprimer un consentement, les r&#232;gles habituelles pour tous les actes m&#233;dicaux s'appliquent. Dans cette situation, la d&#233;cision est prise apr&#232;s consultation du repr&#233;sentant l&#233;gal, de la personne de confiance d&#233;sign&#233;e, d'une personne de sa famille ou, &#224; d&#233;faut, d'un de ses proches, ainsi que le pr&#233;voient les dispositions du Code de la sant&#233; publique pour tout acte de soin.&lt;/p&gt;
+&lt;p&gt;Pour rappel, ces tiers ont vocation &#224; t&#233;moigner des souhaits et de la volont&#233; de la personne. Le t&#233;moignage de la personne de confiance l'emporte sur tout autre t&#233;moignage (famille, proche, tuteur, mandataire).&lt;/p&gt;
+&lt;/div&gt;&lt;/div&gt;&lt;div class='cs_blocs'&gt;&lt;button class='blocs_titre blocs_replie blocs_click'&gt;&lt;a href='javascript:;' class='ouvrir_fermer'&gt;Comment se passe concr&#232;tement la vaccination ?&lt;/a&gt;&lt;/button&gt;&lt;div class='blocs_destination blocs_invisible blocs_slide'&gt;
+&lt;p&gt;Le jour de la vaccination, vous devrez vous munir d'une pi&#232;ce d'identit&#233; ainsi que de votre carte vitale, si vous en poss&#233;dez une.&lt;/p&gt;
+&lt;p&gt;Sur place, un m&#233;decin ou un autre professionnel de sant&#233; vous posera des questions et vous fera remplir un questionnaire permettant de v&#233;rifier que vous ne pr&#233;sentez pas de contre-indication et permettant &#233;galement de d&#233;finir le parcours vaccinal &#224; adopter. Cette &#233;tape vise &#224; v&#233;rifier que vous pouvez &#234;tre vaccin&#233; normalement.&lt;/p&gt;
+&lt;p&gt;La vaccination consiste en une injection intramusculaire, dans le bras le plus souvent. Dans certains cas (personnes &#224; risque de forme grave de Covid-19, etc.), vous serez invit&#233; &#224; rester 15 minutes sur place par mesure de s&#233;curit&#233;, avant de pouvoir rentrer chez vous.&lt;/p&gt;
+&lt;/div&gt;&lt;/div&gt;&lt;div class='cs_blocs'&gt;&lt;button class='blocs_titre blocs_replie blocs_click'&gt;&lt;a href='javascript:;' class='ouvrir_fermer'&gt;Quelles sont les questions qui me seront pos&#233;es avant la vaccination ?&lt;/a&gt;&lt;/button&gt;&lt;div class='blocs_destination blocs_invisible blocs_slide'&gt;
+&lt;p&gt;Sur place, un m&#233;decin ou tout autre soignant vous posera quelques questions ou vous fera remplir vous-m&#234;me un &lt;a href='https://sante.gouv.fr/IMG/pdf/questionnaire_pre-vaccinal_contre_le_covid-19.pdf' class='spip_in' type='application/pdf'&gt;questionnaire&lt;/a&gt; tr&#232;s simple visant &#224; v&#233;rifier que vous pouvez &#234;tre vaccin&#233; normalement.&lt;/p&gt;
+&lt;/div&gt;&lt;/div&gt;&lt;div class='cs_blocs'&gt;&lt;button class='blocs_titre blocs_replie blocs_click'&gt;&lt;a href='javascript:;' class='ouvrir_fermer'&gt;Dois-je venir avec des documents particuliers ?&lt;/a&gt;&lt;/button&gt;&lt;div class='blocs_destination blocs_invisible blocs_slide'&gt;
+&lt;p&gt;Le jour de la vaccination, vous devez apporter &lt;strong&gt;une pi&#232;ce d'identit&#233;&lt;/strong&gt;, ainsi que &lt;strong&gt;votre carte vitale&lt;/strong&gt;, si vous en poss&#233;dez une afin de donner votre num&#233;ro de s&#233;curit&#233; sociale.&lt;/p&gt;
+&lt;p&gt;Si vous avez &#233;t&#233; infect&#233; au Covid-19, vous devrez &#233;galement pr&#233;senter une preuve d'infection ant&#233;rieure (test RT-PCR, antig&#233;nique, ou une s&#233;rologie positive de plus de 2 mois) lors de votre premier rendez-vous afin de compl&#233;ter votre sch&#233;ma de vaccination initial avec une seule dose.&lt;/p&gt;
+&lt;p&gt;Les mineurs ne disposant pas de leur propre carte vitale peuvent pr&#233;senter celle d'un de leurs parents ou titulaires de l'autorit&#233; parentale, ou une attestation de droit mentionnant leur num&#233;ro de s&#233;curit&#233; sociale. Par ailleurs, ils doivent &#233;galement pr&#233;senter un formulaire d'autorisation parentale d&#251;ment sign&#233; par leurs deux parents. Voir FAQ &lt;a href='https://sante.gouv.fr/grands-dossiers/vaccin-covid-19/je-suis-un-particulier/la-vaccination-des-enfants' class='spip_in'&gt;La vaccination des mineurs&lt;/a&gt;.&lt;/p&gt;
+&lt;/div&gt;&lt;/div&gt;&lt;div class='cs_blocs'&gt;&lt;button class='blocs_titre blocs_replie blocs_click'&gt;&lt;a href='javascript:;' class='ouvrir_fermer'&gt;O&#249; se faire vacciner ?&lt;/a&gt;&lt;/button&gt;&lt;div class='blocs_destination blocs_invisible blocs_slide'&gt;
+&lt;p&gt;Vous pouvez &#234;tre vaccin&#233; chez votre m&#233;decin traitant (g&#233;n&#233;raliste ou sp&#233;cialiste), en pharmacie, en cabinet infirmier, en cabinet de sage-femme, chez votre chirurgien-dentiste, au sein des services hospitaliers o&#249; vous &#234;tes suivi, en laboratoire de biologie m&#233;dicale ou en centre de vaccination. Certains de ces professionnels de sant&#233; peuvent accepter de se d&#233;placer &#224; votre domicile pour administrer cette vaccination.&lt;/p&gt;
+&lt;p&gt;Si vous r&#233;sidez en &#233;tablissement pour personnes &#226;g&#233;es (EHPAD, USLD, r&#233;sidences autonomie), vous n'avez pas besoin de vous d&#233;placer : la vaccination aura lieu au sein de votre &#233;tablissement. Vous pouvez &#233;galement &#234;tre vaccin&#233; chez votre m&#233;decin traitant (g&#233;n&#233;raliste ou sp&#233;cialiste), au sein des services hospitaliers o&#249; vous &#234;tes suivi, en pharmacie, et en cabinet infirmier.&lt;/p&gt;
+&lt;p&gt;Retrouvez toutes les informations sur les lieux de vaccination sur &lt;a href=&#034;https://www.sante.fr/&#034; class='spip_out' rel='external'&gt;www.sante.fr&lt;/a&gt;.&lt;/p&gt;
+&lt;/div&gt;&lt;/div&gt;&lt;div class='cs_blocs'&gt;&lt;button class='blocs_titre blocs_replie blocs_click'&gt;&lt;a href='javascript:;' class='ouvrir_fermer'&gt;Comment prendre rendez-vous ?&lt;/a&gt;&lt;/button&gt;&lt;div class='blocs_destination blocs_invisible blocs_slide'&gt;
+&lt;p&gt;Avant de prendre rendez-vous, vous pouvez consulter votre m&#233;decin pour lui poser toutes vos questions et v&#233;rifier dans quelles mesures vous pouvez &#234;tre vaccin&#233; (vaccin, d&#233;lai etc..), mais cela n'est pas une obligation.&lt;/p&gt;
+&lt;p&gt;Pour vous faire vacciner, vous pouvez :&lt;/p&gt;
+&lt;ul class=&#034;spip&#034;&gt;&lt;li&gt; Prendre rendez-vous en ligne sur les plateformes de prise de rendez-vous&lt;/li&gt;&lt;li&gt; Vous rapprocher de votre m&#233;decin traitant (g&#233;n&#233;raliste ou sp&#233;cialiste), votre m&#233;decin du travail, votre pharmacien, votre infirmier, votre sage-femme pour obtenir un rendez-vous. Il est &#233;galement possible de prendre rendez-vous chez votre chirurgien-dentiste ou dans un laboratoire de biologie m&#233;dicale. Il est &#233;galement possible de prendre rendez-vous chez votre chirurgien-dentiste ou dans un laboratoire de biologie m&#233;dicale.&lt;/li&gt;&lt;/ul&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class='cs_blocs'&gt;&lt;button class='blocs_titre blocs_replie blocs_click'&gt;&lt;a href='javascript:;' class='ouvrir_fermer'&gt;Comment se faire vacciner lorsqu'on ne peut pas se d&#233;placer ?&lt;/a&gt;&lt;/button&gt;&lt;div class='blocs_destination blocs_invisible blocs_slide'&gt;
+&lt;p&gt;Si vous &#234;tes une personne &#226;g&#233;e de plus de 80 ans ou que n'&#234;tes pas en mesure de vous d&#233;placer, vous pouvez b&#233;n&#233;ficier d'une vaccination &#224; domicile.&lt;/p&gt;
+&lt;p&gt;Les infirmi&#232;res et infirmiers dipl&#244;m&#233;s d'&#201;tat (IDE), ainsi que les sage-femmes peuvent prescrire et administrer tous les vaccins disponibles pour les personnes de 5 ans et plus, et administrer les vaccins disponibles pour les 6 mois &#8211; 4 ans sur prescription m&#233;dicale. Cela vient augmenter les possibilit&#233;s de vaccination &#224; domicile pour les personnes &#233;ligibles &#224; la vaccination.&lt;/p&gt;
+&lt;/div&gt;&lt;/div&gt;&lt;div class='cs_blocs'&gt;&lt;button class='blocs_titre blocs_replie blocs_click'&gt;&lt;a href='javascript:;' class='ouvrir_fermer'&gt;Peut-on se faire vacciner dans un autre d&#233;partement que celui dans lequel on r&#233;side ?&lt;/a&gt;&lt;/button&gt;&lt;div class='blocs_destination blocs_invisible blocs_slide'&gt;
+&lt;p&gt;Le principe fix&#233; pour la vaccination est celui du libre choix des personnes quant au d&#233;partement dans lequel elles souhaitent se faire vacciner.&lt;/p&gt;
+&lt;/div&gt;&lt;/div&gt;&lt;div class='cs_blocs'&gt;&lt;button class='blocs_titre blocs_replie blocs_click'&gt;&lt;a href='javascript:;' class='ouvrir_fermer'&gt;Puis-je faire mes injections dans des endroits diff&#233;rents ?&lt;/a&gt;&lt;/button&gt;&lt;div class='blocs_destination blocs_invisible blocs_slide'&gt;
+&lt;p&gt;Il est tout &#224; fait possible de se faire vacciner dans plusieurs endroits diff&#233;rents tout au long de son parcours vaccinal.&lt;br class='autobr' /&gt;
+Par exemple, si j'ai fait ma premi&#232;re dose de vaccin dans un centre de vaccination en &#206;le-de-France, je ne suis pas oblig&#233;e de r&#233;aliser ma deuxi&#232;me dose et mon rappel dans ce m&#234;me centre.&lt;/p&gt;
+&lt;/div&gt;&lt;/div&gt;&lt;div class='cs_blocs'&gt;&lt;button class='blocs_titre blocs_replie blocs_click'&gt;&lt;a href='javascript:;' class='ouvrir_fermer'&gt;Combien co&#251;te la vaccination ?&lt;/a&gt;&lt;/button&gt;&lt;div class='blocs_destination blocs_invisible blocs_slide'&gt;
+&lt;p&gt;La vaccination contre le Covid-19 est prise en charge par l'Assurance Maladie, et les personnes souhaitant se faire vacciner n'ont rien &#224; payer. La gratuit&#233; de la vaccination contre le Covid-19 est l'un des grands engagements du Pr&#233;sident de la R&#233;publique.&lt;/p&gt;
+&lt;/div&gt;&lt;/div&gt;&lt;div class='cs_blocs'&gt;&lt;button class='blocs_titre blocs_replie blocs_click'&gt;&lt;a href='javascript:;' class='ouvrir_fermer'&gt;Est-il possible de se faire vacciner par la m&#233;decine du travail ?&lt;/a&gt;&lt;/button&gt;&lt;div class='blocs_destination blocs_invisible blocs_slide'&gt;
+&lt;p&gt;Oui, il est possible pour tous les salari&#233;s &#226;g&#233;s de 18 ans et plus de se faire vacciner par la m&#233;decine du travail.&lt;/p&gt;
+&lt;p&gt;Le cas &#233;ch&#233;ant, le salari&#233; sera autoris&#233; &#224; s'absenter sur ses heures de travail pour se faire vacciner, sans avoir besoin d'un arr&#234;t de travail et sans que l'employeur ne puisse s'opposer &#224; son absence.&lt;/p&gt;
+&lt;p&gt;Cette vaccination doit &#234;tre consentie par le salari&#233; et n'est en aucun cas obligatoire.&lt;/p&gt;
+&lt;/div&gt;&lt;/div&gt;&lt;div class='cs_blocs'&gt;&lt;button class='blocs_titre blocs_replie blocs_click'&gt;&lt;a href='javascript:;' class='ouvrir_fermer'&gt;Tous les pharmaciens vaccinent-ils ?&lt;/a&gt;&lt;/button&gt;&lt;div class='blocs_destination blocs_invisible blocs_slide'&gt;
+&lt;p&gt;Seuls les pharmaciens form&#233;s &#224; la vaccination contre la grippe peuvent r&#233;aliser la vaccination contre le Covid-19, soit un r&#233;seau de 19 000 officines, r&#233;f&#233;renc&#233;es sur le site &lt;a href=&#034;https://www.sante.fr/&#034; class='spip_out' rel='external'&gt;www.sante.fr&lt;/a&gt;. Les personnes souhaitant se faire vacciner par ce biais doivent prendre directement rendez-vous dans la pharmacie de leur choix.&lt;/p&gt;
+&lt;/div&gt;&lt;/div&gt;&lt;div class='cs_blocs'&gt;&lt;button class='blocs_titre blocs_replie blocs_click'&gt;&lt;a href='javascript:;' class='ouvrir_fermer'&gt;Quelle preuve sanitaire obtient-on suite &#224; la vaccination ?
+Chaque personne vaccin&#233;e re&#231;oit un certificat de vaccination num&#233;rique &#233;dit&#233; par le professionnel de sant&#233;, indiquant la date de la derni&#232;re injection effectu&#233;e, le nom du vaccin administr&#233; et le statut vaccinal (sch&#233;ma vaccinal complet ou incomplet).&lt;/a&gt;&lt;/button&gt;&lt;div class='blocs_destination blocs_invisible blocs_slide'&gt;
+&lt;p&gt;Vous pourrez &#233;galement r&#233;cup&#233;rer votre certificat de vaccination num&#233;rique en vous connectant sur le t&#233;l&#233;service de l'Assurance Maladie (pour une attestation de vaccination), ou bien sur votre compte Mon Espace Sant&#233;.&lt;br class='autobr' /&gt;
+Vous pouvez &#233;galement obtenir une copie papier en vous rendant dans votre caisse d'assurance maladie ou en vous rapprochant d'un professionnel de sant&#233;.&lt;/p&gt;
+&lt;p&gt;L'application &#8220;TousAntiCovid&#8221; permet de conserver en toute s&#233;curit&#233; ses certificats de vaccination au format num&#233;rique : pour importer un nouveau certificat, il suffit ainsi de scanner le QR code pr&#233;sent sur le document depuis l'application.&lt;/p&gt;
+&lt;p&gt;Un dispositif d'assistance t&#233;l&#233;phonique gratuit est mis &#224; la disposition des utilisateurs du lundi au samedi de 9h &#224; 17h, via le num&#233;ro vert national du Covid, le 0 800 130 000.&lt;/p&gt;
+&lt;/div&gt;&lt;/div&gt;
+&lt;p&gt;&lt;a id=&#034;francais-etranger&#034;&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;h3 class=&#034;spip&#034;&gt;La vaccination pour les Fran&#231;ais de l'&#233;tranger&lt;/h3&gt;&lt;div class='cs_blocs'&gt;&lt;button class='blocs_titre blocs_replie blocs_click'&gt;&lt;a href='javascript:;' class='ouvrir_fermer'&gt;Fran&#231;ais de l'&#233;tranger, comment se faire vacciner en France ?&lt;/a&gt;&lt;/button&gt;&lt;div class='blocs_destination blocs_invisible blocs_slide'&gt;
+&lt;p&gt;Nous encourageons les Fran&#231;ais vivant &#224; l'&#233;tranger &#224; se faire vacciner au sein de leur pays de r&#233;sidence, d'autant plus s'ils sont affili&#233;s sur place. En cas de n&#233;cessit&#233;, ils peuvent n&#233;anmoins se faire vacciner en France, selon les m&#234;mes conditions et les m&#234;mes proc&#233;d&#233;s que les r&#233;sidents nationaux. Voir plus haut, &#8220;Comment prendre rendez-vous ?&#8221;&lt;/p&gt;
+&lt;p&gt;Sur place, il ne sera pas n&#233;cessaire de disposer d'une carte vitale puisque le syst&#232;me d'information Vaccin Covid est &#224; m&#234;me d'assurer la tra&#231;abilit&#233; de la vaccination &#8211; m&#234;me sans carte vitale.&lt;/p&gt;
+&lt;/div&gt;&lt;/div&gt;&lt;div class='cs_blocs'&gt;&lt;button class='blocs_titre blocs_replie blocs_click'&gt;&lt;a href='javascript:;' class='ouvrir_fermer'&gt;Vaccin&#233; &#224; l'&#233;tranger, mon vaccin n'est pas reconnu par l'Agence europ&#233;enne des m&#233;dicaments (EMA), comment obtenir un sch&#233;ma vaccinal conforme aux recommandations fran&#231;aises ?&lt;/a&gt;&lt;/button&gt;&lt;div class='blocs_destination blocs_invisible blocs_slide'&gt;
+&lt;p&gt;Les personnes r&#233;sidant en France de mani&#232;re temporaire ou permanente ayant b&#233;n&#233;fici&#233; d'une vaccination &#224; l'&#233;tranger doivent b&#233;n&#233;ficier d'une proc&#233;dure particuli&#232;re selon l'&#233;tat d'avancement de leur parcours de vaccination afin de compl&#233;ter leur sch&#233;ma vaccinal en France.&lt;/p&gt;
+&lt;p&gt;Il existe 3 parcours distincts :&lt;/p&gt;
+&lt;ul class=&#034;spip&#034;&gt;&lt;li&gt; Les personnes ayant re&#231;u deux doses d'un vaccin reconnu par l'EMA (Comirnaty de Pfizer-BioNTech, Spikevax de Moderna, Vaxzevria d'AstraZeneca, Novavax ou une dose du vaccin Janssen de Johnson&amp;Johnson) ou &#171; EMA-like &#187; (Covishield, R-Covi et Fiocruz dont la composition et le proc&#233;d&#233; de fabrication sont similaires &#224; ceux du vaccin Vaxzevria d'AstraZeneca) &#224; l'&#233;tranger b&#233;n&#233;ficient d'un sch&#233;ma vaccinal complet reconnu par la France et peuvent par cons&#233;quent obtenir un certificat de vaccination valide via le portail &lt;a href=&#034;https://www.diplomatie.gouv.fr/fr/le-ministere-et-son-reseau/actualites-du-ministere/informations-coronavirus-covid-19/demande-de-passe-sanitaire-en-cas-de-vaccination-a-l-etranger-hors-ue-procedure/&#034; class='spip_out' rel='external'&gt;Fran&#231;ais de l'Etranger&lt;/a&gt; ou le portail &#171; Touriste &#187;. Les personnes ayant re&#231;u une premi&#232;re dose de ces vaccins &#224; l'&#233;tranger doivent recevoir une seconde dose d'un vaccin &#224; ARNm (Pfizer-BioNTech ou Moderna) en France, au moins 4 semaines apr&#232;s leur derni&#232;re injection, afin de compl&#233;ter leur sch&#233;ma vaccinal.&lt;/li&gt;&lt;li&gt; Les personnes ayant re&#231;u une dose d'un vaccin non reconnu par l'EMA mais ayant obtenu &lt;a href=&#034;https://extranet.who.int/pqweb/vaccines/vaccinescovid-19-vaccine-eul-issued&#034; class='spip_out' rel='external'&gt;le label EUL (Emergency Use Listing) de l'OMS&lt;/a&gt; (Sinopharm (Beijing Institute of Biological Products ou BIBP), Sinovac et COVAXIN) doivent recevoir deux doses d'un vaccin ARNm en France, au moins 4 semaines apr&#232;s leur derni&#232;re injection, afin de compl&#233;ter leur sch&#233;ma vaccinal. Les personnes ayant re&#231;u deux doses ou plus de ces m&#234;mes vaccins doivent recevoir une dose de vaccin ARNm en France, au moins 4 semaines apr&#232;s leur derni&#232;re injection, afin de compl&#233;ter leur sch&#233;ma vaccinal.&lt;/li&gt;&lt;li&gt; Les personnes ayant re&#231;u une ou plusieurs doses d'un vaccin non reconnu par l'EMA et n'ayant pas obtenu le label EUL de l'OMS doivent recevoir deux doses d'un vaccin ARNm en France au moins 4 semaines apr&#232;s leur derni&#232;re injection, afin de compl&#233;ter leur sch&#233;ma vaccinal initial.&lt;/li&gt;&lt;/ul&gt;&lt;/div&gt;&lt;/div&gt;
+&lt;p&gt;&lt;a id=&#034;vaccination&#034;&gt;&lt;/a&gt;&lt;br class='autobr' /&gt;
+&lt;strong&gt;Pour plus d'informations sur la vaccination&lt;/strong&gt;&lt;/p&gt;
+&lt;div class='cs_blocs'&gt;&lt;button class='blocs_titre blocs_replie blocs_click'&gt;&lt;a href='javascript:;' class='ouvrir_fermer'&gt;O&#249; puis-je trouver les donn&#233;es sur la vaccination ?&lt;/a&gt;&lt;/button&gt;&lt;div class='blocs_destination blocs_invisible blocs_slide'&gt;
+&lt;p&gt;&lt;strong&gt;Sur &lt;a href='https://sante.gouv.fr/data.gouv.fr'&gt;data.gouv.fr&lt;/strong&gt;&lt;/a&gt;, en se rendant en bas de la page dans la rubrique &#171; Jeux de donn&#233;es &#224; la une &#187; et en s&#233;lectionnant &#171; Donn&#233;es relatives aux personnes vaccin&#233;es contre le Covid-19 (VAC-SI) &#187;.&lt;/p&gt;
+&lt;p&gt;Outre ces indicateurs sp&#233;cifiques de couverture vaccinale, d'autres donn&#233;es concernant la vaccination sont &#233;galement accessibles librement :&lt;/p&gt;
+&lt;ul class=&#034;spip&#034;&gt;&lt;li&gt; Des donn&#233;es relatives aux &lt;a href=&#034;https://www.data.gouv.fr/fr/datasets/donnees-relatives-aux-stocks-des-doses-de-vaccins-contre-la-covid-19/&#034; class='spip_out' rel='external'&gt;stocks des doses de vaccins&lt;/a&gt;&lt;/li&gt;&lt;li&gt; Des donn&#233;es relatives aux &lt;a href=&#034;https://www.data.gouv.fr/fr/datasets/donnees-relatives-aux-livraisons-de-vaccins-contre-la-covid-19/&#034; class='spip_out' rel='external'&gt;livraisons de vaccins&lt;/a&gt;&lt;/li&gt;&lt;li&gt; Sur le site &lt;a href=&#034;http://www.sante.fr&#034; class='spip_out' rel='external'&gt;sante.fr&lt;/a&gt;, pour trouver les lieux de vaccination contre le Covid-19&lt;/li&gt;&lt;li&gt; Sur le site &lt;a href=&#034;https://geodes.santepubliquefrance.fr/#c=home&#034; class='spip_out' rel='external'&gt;G&#233;odes&lt;/a&gt; (Sant&#233; publique France) pour avoir des cartographies r&#233;gionales ou d&#233;partementales sur les couvertures vaccinales&lt;/li&gt;&lt;/ul&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class='cs_blocs'&gt;&lt;button class='blocs_titre blocs_click'&gt;&lt;a href='javascript:;' class='ouvrir_fermer'&gt;Toutes les informations sont disponibles sur diff&#233;rents sites internet :&lt;/a&gt;&lt;/button&gt;&lt;div class='blocs_destination'&gt;&lt;ul class=&#034;spip&#034;&gt;&lt;li&gt; &lt;a href=&#034;https://vaccination-info-service.fr/&#034; class='spip_out' rel='external'&gt;Vaccination-info-service.fr&lt;/a&gt;&lt;/li&gt;&lt;li&gt; &lt;a href=&#034;https://www.has-sante.fr/jcms/p_3165982/fr/coronavirus-covid-19&#034; class='spip_out' rel='external'&gt;Haute autorit&#233; de Sant&#233; (HAS)&lt;/a&gt;&lt;/li&gt;&lt;li&gt; &lt;a href=&#034;https://www.ansm.sante.fr/Dossiers/COVID-19-Vaccins/L-ANSM-mobilisee-dans-la-mise-a-disposition-des-vaccins-COVID-19/(offset)/0#vac&#034; class='spip_out' rel='external'&gt;Agence nationale de s&#233;curit&#233; du m&#233;dicament (ANSM)&lt;/a&gt;&lt;/li&gt;&lt;li&gt; &lt;a href=&#034;https://www.who.int/fr/emergencies/diseases/novel-coronavirus-2019/question-and-answers-hub&#034; class='spip_out' rel='external'&gt;Organisation mondiale de la sant&#233; (OMS)&lt;/a&gt;&lt;/li&gt;&lt;li&gt; &lt;a href=&#034;https://www.gouvernement.fr/info-coronavirus/vaccins&#034; class='spip_out' rel='external'&gt;Site du Gouvernement&lt;/a&gt;&lt;/li&gt;&lt;/ul&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;
+		
+		</content:encoded>
+
+
+		
+		<enclosure url="https://sante.gouv.fr/tj9l1g7AYP8" length="0" />
+		
+		<enclosure url="https://sante.gouv.fr/IMG/png/infog_vaccins_de_l_etranger.png" length="216723" type="image/png" />
+		
+		<enclosure url="https://sante.gouv.fr/IMG/pdf/infog_vaccins_de_l_etranger_en.pdf" length="326808" type="application/pdf" />
+		
+
+	</item>
+<item xml:lang="fr">
+		<title>La codification des m&#233;dicaments</title>
+		<link>https://sante.gouv.fr/soins-et-maladies/medicaments/le-circuit-du-medicament/article/la-codification-des-medicaments</link>
+		<guid isPermaLink="true">https://sante.gouv.fr/soins-et-maladies/medicaments/le-circuit-du-medicament/article/la-codification-des-medicaments</guid>
+		<dc:date>2022-01-27T18:45:12Z</dc:date>
+		<dc:format>text/html</dc:format>
+		<dc:language>fr</dc:language>
+		<dc:creator>Minist&#232;re de la Sant&#233; et de la Pr&#233;vention</dc:creator>
+
+
+		<dc:subject>M&#233;dicaments</dc:subject>
+
+		<description>
+&lt;p&gt;Depuis le 1er janvier 2022, la codification des m&#233;dicaments fait son entr&#233;e dans le code de la sant&#233; publique. Le syst&#232;me de codification en vigueur depuis plusieurs ann&#233;es ne change pas mais les responsabilit&#233;s sont pr&#233;cis&#233;es. Nouveau cadre juridique de la codification des m&#233;dicaments &lt;br class='autobr' /&gt;
+Le d&#233;cret n&#176; 2021-1931 du 30 d&#233;cembre 2021 officialise la comp&#233;tence donn&#233;e &#224; l'Agence nationale de s&#233;curit&#233; du m&#233;dicament et des produits de sant&#233; (ANSM) consistant &#224; attribuer le num&#233;ro national d'identification des (&#8230;)&lt;/p&gt;
+
+
+-
+&lt;a href="https://sante.gouv.fr/soins-et-maladies/medicaments/le-circuit-du-medicament/" rel="directory"&gt;Le circuit du m&#233;dicament&lt;/a&gt;
+
+/ 
+&lt;a href="https://sante.gouv.fr/mot/medicaments" rel="tag"&gt;M&#233;dicaments&lt;/a&gt;
+
+		</description>
+
+
+ <content:encoded>&lt;img src='https://sante.gouv.fr/local/cache-vignettes/L138xH150/arton431417-4a657.png?1680762629' class='spip_logo spip_logo_right' width='138' height='150' alt=&#034;&#034; /&gt;
+		&lt;div class='rss_chapo'&gt;&lt;p&gt;Depuis le 1er janvier 2022, la &lt;strong&gt;codification des m&#233;dicaments&lt;/strong&gt; fait son entr&#233;e dans le code de la sant&#233; publique. Le syst&#232;me de codification en vigueur depuis plusieurs ann&#233;es ne change pas mais les responsabilit&#233;s sont pr&#233;cis&#233;es.&lt;/p&gt;&lt;/div&gt;
+		&lt;div class='rss_texte'&gt;&lt;h3 class=&#034;spip&#034;&gt;Nouveau cadre juridique de la codification des m&#233;dicaments&lt;/h3&gt;
+&lt;p&gt;Le d&#233;cret n&#176; 2021-1931 du 30 d&#233;cembre 2021 officialise la comp&#233;tence donn&#233;e &#224; l'Agence nationale de s&#233;curit&#233; du m&#233;dicament et des produits de sant&#233; (ANSM) consistant &#224; &lt;a href=&#034;https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000044792809&#034; class='spip_out' rel='external'&gt;attribuer le num&#233;ro national d'identification des pr&#233;sentations des m&#233;dicaments&lt;/a&gt; autoris&#233;s sur le march&#233;, et lorsque cela est n&#233;cessaire, le code national d'identification des unit&#233;s communes de dispensation des m&#233;dicaments utilis&#233;s dans le circuit hospitalier.&lt;/p&gt;
+&lt;p&gt;L'&lt;a href=&#034;https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000044793247&#034; class='spip_out' rel='external'&gt;arr&#234;t&#233; du 30 d&#233;cembre 2021&lt;/a&gt; qui en d&#233;coule d&#233;termine :
+&lt;br /&gt;&lt;span class=&#034;spip-puce ltr&#034;&gt;&lt;b&gt;&#8211;&lt;/b&gt;&lt;/span&gt; Les sp&#233;cifications techniques relatives &#224; l'identification des m&#233;dicaments dans la continuit&#233; des usages pr&#233;existant :&lt;br class='autobr' /&gt;
+&gt; &gt; Le code CIP comme num&#233;ro national d'identification des pr&#233;sentations de m&#233;dicaments,&lt;br class='autobr' /&gt;
+&gt; &gt; Le code UCD comme num&#233;ro national d'identification des unit&#233;s communes de dispensation,
+&lt;br /&gt;&lt;span class=&#034;spip-puce ltr&#034;&gt;&lt;b&gt;&#8211;&lt;/b&gt;&lt;/span&gt; La possibilit&#233; pour l'ANSM de d&#233;l&#233;guer &#224; un tiers sa mission,
+&lt;br /&gt;&lt;span class=&#034;spip-puce ltr&#034;&gt;&lt;b&gt;&#8211;&lt;/b&gt;&lt;/span&gt; La dur&#233;e du cadre juridique ainsi d&#233;fini pour 6 ans.&lt;/p&gt;
+&lt;p&gt;Le 6 janvier 2022, l'ANSM, le Club Inter-Pharmaceutique et GS1 France ont sign&#233; une convention tripartite :
+&lt;br /&gt;&lt;span class=&#034;spip-puce ltr&#034;&gt;&lt;b&gt;&#8211;&lt;/b&gt;&lt;/span&gt; Afin de p&#233;renniser l'usage des codes actuels bas&#233;s sur les standards internationaux GS1,
+&lt;br /&gt;&lt;span class=&#034;spip-puce ltr&#034;&gt;&lt;b&gt;&#8211;&lt;/b&gt;&lt;/span&gt; Pour une dur&#233;e de 3 ans, renouvelable une fois,
+&lt;br /&gt;&lt;span class=&#034;spip-puce ltr&#034;&gt;&lt;b&gt;&#8211;&lt;/b&gt;&lt;/span&gt; Et pour d&#233;l&#233;guer la gestion des codes UCD au Club Inter-Pharmaceutique.&lt;/p&gt;
+&lt;h3 class=&#034;spip&#034;&gt;Quelques modalit&#233;s pratiques sur les codes&lt;/h3&gt;
+&lt;p&gt;&lt;strong class=&#034;caractencadre-spip spip&#034;&gt;Pour obtenir des codes CIP et UCD en tant que laboratoire pharmaceutique :&lt;/strong&gt;&lt;/p&gt;
+&lt;table class=&#034;table spip&#034;&gt;
+&lt;tbody&gt;
+&lt;tr class='row_odd odd'&gt;
+&lt;td&gt;&lt;center&gt;&lt;strong&gt;Type de code&lt;/strong&gt;&lt;/center&gt;&lt;/td&gt;
+&lt;td&gt;&lt;center&gt;&lt;strong&gt;Interlocuteur&lt;/strong&gt;&lt;/center&gt;&lt;/td&gt;&lt;/tr&gt;
+&lt;tr class='row_even even'&gt;
+&lt;td&gt;&lt;center&gt;Pour obtenir un code CIP pour une pr&#233;sentation de m&#233;dicament&lt;/center&gt;&lt;/td&gt;
+&lt;td&gt;&lt;center&gt;Agence nationale de s&#233;curit&#233; du m&#233;dicament et des produits de sant&#233; (ANSM)&lt;/center&gt;&lt;/td&gt;&lt;/tr&gt;
+&lt;tr class='row_odd odd'&gt;
+&lt;td&gt;&lt;center&gt;Pour obtenir un code UCD pour les m&#233;dicaments &#224; l'h&#244;pital&lt;/center&gt;&lt;/td&gt;
+&lt;td&gt;&lt;center&gt;Club Inter-Pharmaceutique&lt;/center&gt;&lt;/td&gt;&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;p&gt;&lt;strong class=&#034;caractencadre-spip spip&#034;&gt;Un &#233;tiquetage des bo&#238;tes de m&#233;dicaments qui reste inchang&#233; :&lt;/strong&gt;&lt;/p&gt;
+&lt;dl class='spip_document_376364 spip_documents spip_documents_center'&gt;
+&lt;dt&gt; &lt;img src='https://sante.gouv.fr/local/cache-vignettes/L500xH104/img_codification_medicaments-5c832.jpg?1680762629' width='500' height='104' alt='' /&gt; &lt;/dt&gt;
+&lt;/dl&gt;&lt;h3 class=&#034;spip&#034;&gt;Les travaux sur la codification des m&#233;dicaments &#224; moyen terme&lt;/h3&gt;
+&lt;p&gt;Le minist&#232;re charg&#233; de la sant&#233; a mis en place en juin 2021 un comit&#233; de pilotage visant &#224; :&lt;/p&gt;
+&lt;p&gt;&lt;span class=&#034;spip-puce ltr&#034;&gt;&lt;b&gt;&#8211;&lt;/b&gt;&lt;/span&gt; &lt;strong&gt;identifier les besoins d'&#233;volution &#224; moyen terme en mati&#232;re de codification des m&#233;dicaments&lt;/strong&gt;, notamment relatifs aux trois fonctions strat&#233;giques de l'identification des m&#233;dicaments &#224; des fins d'enregistrement (mise sur le march&#233;, tra&#231;abilit&#233; dans les bases de donn&#233;es publiques), de remboursement et logistiques ; &lt;br /&gt;&lt;span class=&#034;spip-puce ltr&#034;&gt;&lt;b&gt;&#8211;&lt;/b&gt;&lt;/span&gt; et &lt;strong&gt;identifier en 2022 le sch&#233;ma cible &#224; mettre en &#339;uvre&lt;/strong&gt;.&lt;/p&gt;
+&lt;p&gt;Dans ce cadre :&lt;/p&gt;
+&lt;p&gt;&lt;span class=&#034;spip-puce ltr&#034;&gt;&lt;b&gt;&#8211;&lt;/b&gt;&lt;/span&gt; un COPIL regroupant les acteurs concern&#233;s par la codification a &#233;t&#233; mis en place sous l'&#233;gide de la DGS,
+&lt;br /&gt;&lt;span class=&#034;spip-puce ltr&#034;&gt;&lt;b&gt;&#8211;&lt;/b&gt;&lt;/span&gt; la DGS analyse les solutions de codification retenues par diff&#233;rents pays europ&#233;ens,
+&lt;br /&gt;&lt;span class=&#034;spip-puce ltr&#034;&gt;&lt;b&gt;&#8211;&lt;/b&gt;&lt;/span&gt; la DGS conduit des entretiens avec des acteurs publics et priv&#233;s concern&#233;s par la codification des m&#233;dicaments ainsi que des experts en la mati&#232;re.&lt;/p&gt;
+&lt;p&gt;Une fois cette analyse men&#233;e, &lt;strong&gt;le sch&#233;ma cible sera arr&#234;t&#233; et mis en &#339;uvre dans les 3 &#224; 6 ans &#224; venir&lt;/strong&gt;.&lt;/p&gt;&lt;/div&gt;
+		
+		</content:encoded>
+
+
+		
+
+	</item>
+<item xml:lang="fr">
+		<title>Plan National Sant&#233;-Environnement 4 (PNSE 4) : &#034;un environnement, une sant&#233;&#034; (2021-2025)</title>
+		<link>https://sante.gouv.fr/sante-et-environnement/les-plans-nationaux-sante-environnement/article/plan-national-sante-environnement-4-pnse-4-un-environnement-une-sante-2021-2025</link>
+		<guid isPermaLink="true">https://sante.gouv.fr/sante-et-environnement/les-plans-nationaux-sante-environnement/article/plan-national-sante-environnement-4-pnse-4-un-environnement-une-sante-2021-2025</guid>
+		<dc:date>2019-07-09T12:14:18Z</dc:date>
+		<dc:format>text/html</dc:format>
+		<dc:language>fr</dc:language>
+		<dc:creator>Minist&#232;re de la Sant&#233; et de la Pr&#233;vention</dc:creator>
+
+
+		<dc:subject>Sant&#233; et environnement</dc:subject>
+
+		<description>
+&lt;p&gt;La France fait partie des &#201;tats europ&#233;ens les plus engag&#233;s en mati&#232;re de sant&#233; environnement. Depuis la Conf&#233;rence de Budapest en 2004, elle &#233;labore tous les cinq ans, un Plan National Sant&#233; Environnement (PNSE). Inscrits dans le code de la sant&#233; publique, ces plans successifs ont permis des avanc&#233;es notables pour r&#233;duire l'impact de l'environnement sur la sant&#233;, une meilleure prise en compte de la sant&#233; environnement &#224; toutes les &#233;chelles du territoire, et le d&#233;veloppement de programmes de recherche (&#8230;)&lt;/p&gt;
+
+
+-
+&lt;a href="https://sante.gouv.fr/sante-et-environnement/les-plans-nationaux-sante-environnement/" rel="directory"&gt;Les plans nationaux sant&#233;-environnement&lt;/a&gt;
+
+/ 
+&lt;a href="https://sante.gouv.fr/mot/sante-et-environnement" rel="tag"&gt;Sant&#233; et environnement&lt;/a&gt;
+
+		</description>
+
+
+ <content:encoded>&lt;img src='https://sante.gouv.fr/local/cache-vignettes/L106xH150/arton428268-89f64.jpg?1680762619' class='spip_logo spip_logo_right' width='106' height='150' alt=&#034;&#034; /&gt;
+		&lt;div class='rss_chapo'&gt;&lt;p&gt;La France fait partie des &#201;tats europ&#233;ens les plus engag&#233;s en mati&#232;re de sant&#233; environnement. Depuis la Conf&#233;rence de Budapest en 2004, elle &#233;labore tous les cinq ans, un Plan National Sant&#233; Environnement (PNSE). Inscrits dans le code de la sant&#233; publique, ces plans successifs ont permis des avanc&#233;es notables pour r&#233;duire l'impact de l'environnement sur la sant&#233;, une meilleure prise en compte de la sant&#233; environnement &#224; toutes les &#233;chelles du territoire, et le d&#233;veloppement de programmes de recherche structur&#233;s.&lt;/p&gt;&lt;/div&gt;
+		&lt;div class='rss_texte'&gt;&lt;div class=&#034;texteencadre-spip spip&#034;&gt;&lt;strong&gt;ACTUALITES&lt;/strong&gt;
+&lt;br&gt;
+&lt;br /&gt;&lt;span class=&#034;spip-puce ltr&#034;&gt;&lt;b&gt;&#8211;&lt;/b&gt;&lt;/span&gt; &lt;a href=&#034;https://solidarites-sante.gouv.fr/actualites/presse/communiques-de-presse/article/le-gouvernement-lance-le-4eme-plan-national-sante-environnement&#034; class='spip_out' rel='external'&gt;Le Gouvernement lance le 4&#232;me plan national sant&#233; environnement &#171; Un environnement, une sant&#233; &#187;&lt;/a&gt; - &lt;i&gt;(Communiqu&#233; de presse du 07 mai 2021)&lt;/i&gt;
+&lt;br&gt;
+&lt;br /&gt;&lt;span class=&#034;spip-puce ltr&#034;&gt;&lt;b&gt;&#8211;&lt;/b&gt;&lt;/span&gt; &lt;a href='https://sante.gouv.fr/archives/archives-presse/archives-breves/article/permettre-a-chacun-d-etre-acteur-de-son-environnement-et-de-sa-sante' class='spip_in'&gt;Permettre &#224; chacun d'&#234;tre acteur de son environnement et de sa sant&#233; : le Gouvernement met en consultation le 4&#232;me Plan national sant&#233; environnement&lt;/a&gt;
+&lt;br&gt;
+&lt;br /&gt;&lt;span class=&#034;spip-puce ltr&#034;&gt;&lt;b&gt;&#8211;&lt;/b&gt;&lt;/span&gt; &lt;a href='https://sante.gouv.fr/archives/archives-presse/archives-breves/article/reunion-du-groupe-sante-environnement-presentation-du-4e-plan-national-sante' class='spip_in'&gt;R&#233;union du Groupe Sant&#233; Environnement : pr&#233;sentation du 4&lt;sup&gt;e&lt;/sup&gt; plan national sant&#233; environnement&lt;/a&gt;
+&lt;br&gt;
+&lt;br /&gt;&lt;span class=&#034;spip-puce ltr&#034;&gt;&lt;b&gt;&#8211;&lt;/b&gt;&lt;/span&gt; &lt;a href=&#034;https://solidarites-sante.gouv.fr/actualites/actualites-du-ministere/article/gse-les-enseignements-de-la-crise-sanitaire-au-coeur-du-quatrieme-plan-sante&#034; class='spip_out' rel='external'&gt;GSE : les enseignements de la crise sanitaire au c&#339;ur du quatri&#232;me plan sant&#233; environnement&lt;/a&gt;
+&lt;br&gt;
+&lt;br /&gt;&lt;span class=&#034;spip-puce ltr&#034;&gt;&lt;b&gt;&#8211;&lt;/b&gt;&lt;/span&gt; &lt;a href=&#034;https://territoire-environnement-sante.fr/plate-forme-collaborative/appel-manisfestation-interet&#034; class='spip_out' rel='external'&gt;Appel &#224; manifestation d'int&#233;r&#234;t &#171; Territoire engag&#233; pour mon environnement, ma sant&#233; &#187;&lt;/a&gt;&lt;/div&gt;&lt;dl class='spip_document_372930 spip_documents spip_documents_left' style='float:left;width:413px;'&gt;
+&lt;dt&gt; &lt;a href='https://sante.gouv.fr/IMG/pdf/pnse4.pdf' class=&#034;spip_in&#034; title=' JPEG - 83.9&#160;ko' type=&#034;application/pdf&#034;&gt; &lt;img src='https://sante.gouv.fr/local/cache-vignettes/L413xH582/couv_pnse4-a8880.jpg?1680762620' width='413' height='582' alt='' /&gt; &lt;/a&gt;
+&lt;/dt&gt;
+&lt;/dl&gt;
+&lt;p&gt;Le &lt;a href='https://sante.gouv.fr/IMG/pdf/pnse4.pdf' class='spip_in' type='application/pdf'&gt;4&#232;me PNSE&lt;/a&gt; est lanc&#233; en mai 2021 et copilot&#233; par les minist&#232;res des Solidarit&#233;s et de la Sant&#233; et de la Transition &#233;cologique. Il est le r&#233;sultat d'une concertation men&#233;e avec l'ensemble des parties prenantes dans le cadre du Groupe Sant&#233; Environnement (GSE) pr&#233;sid&#233; par la d&#233;put&#233;e Madame Elisabeth Toutut-Picard. Plus largement, le plan a &#233;t&#233; soumis &#224; la consultation du public fin 2020.&lt;/p&gt;
+&lt;p&gt;Son lancement s'inscrit dans un contexte sp&#233;cifique. Les attentes citoyennes sur les questions de sant&#233; environnement sont de plus en plus fortes. Au nom du principe de pr&#233;caution, le citoyen souhaite que l'impact du progr&#232;s scientifique sur son environnement, et encore davantage sur sa sant&#233;, soit &#233;valu&#233; et anticip&#233;. Par ailleurs, la crise sanitaire de la Covid-19 a fait &#233;merger des interrogations sur notre rapport au vivant, et rappelle le lien &#233;troit entre les sant&#233;s humaine, animale et de l'environnement.&lt;/p&gt;
+&lt;p&gt;Face &#224; ces enjeux, le PNSE 4 propose des actions concr&#232;tes pour mieux comprendre et r&#233;duire les risques li&#233;s aux substances chimiques, aux agents physiques (comme le bruit ou les ondes) et aux agents infectieux en lien avec les zoonoses, c'est-&#224;-dire les pathologies qui peuvent se transmettre de l'animal &#224; l'homme. Il s'inscrit pleinement dans le cadre de la d&#233;marche &#171; Une seule sant&#233; &#187;.&lt;br class='autobr' /&gt;
+Au cours des cinq prochaines ann&#233;es, le PNSE 4 poursuit quatre objectifs ambitieux d&#233;clin&#233;s en vingt actions :&lt;/p&gt;
+&lt;p&gt;&lt;span class=&#034;spip-puce ltr&#034;&gt;&lt;b&gt;&#8211;&lt;/b&gt;&lt;/span&gt; &lt;strong&gt;S'informer, se former et informer sur l'&#233;tat de mon environnement et les bons gestes &#224; adopter pour notre sant&#233; et celle des &#233;cosyst&#232;mes&lt;/strong&gt;&lt;br class='autobr' /&gt;
+La formation et l'information des jeunes, des citoyens, des consommateurs, des &#233;lus, des professionnels, etc. constituent un axe majeur d'une politique efficace de pr&#233;vention en mati&#232;re de sant&#233; environnement. L'objectif du PNSE 4 est de garantir une information fiable notamment en utilisant des technologies num&#233;riques innovantes afin de permettre &#224; chacun d'&#234;tre acteur de son environnement et de sa sant&#233;.
+&lt;br&gt;
+&lt;br&gt;&lt;/p&gt;
+&lt;div class=&#034;texteencadre-spip spip&#034;&gt;&lt;br class='autobr' /&gt;
+&lt;strong&gt;&lt;dl class='spip_document_372701 spip_documents spip_documents_left' style='float:left;width:283px;'&gt;
+&lt;dt&gt; &lt;img src='https://sante.gouv.fr/local/cache-vignettes/L283xH105/visuel_recosante-b1418.jpg?1680762620' width='283' height='105' alt='' /&gt; &lt;/dt&gt;
+&lt;/dl&gt;
+&lt;p&gt;Recosant&#233;, un service num&#233;rique pour permettre &#224; chacun de se prot&#233;ger au quotidien des impacts de la pollution de l'air sur sa sant&#233;&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Cr&#233;&#233; dans le cadre de l'action 1 du PNSE 4, le service num&#233;rique Recosant&#233; propose aux citoyens une information quotidienne sur la qualit&#233; de l'air, assortie d'une recommandation de bon comportement &#224; adopter pour prot&#233;ger sa sant&#233; des impacts de la pollution de l'air ambiant. Ce service prend la forme d'une lettre d'information num&#233;rique.&lt;/p&gt;
+&lt;p&gt;Recosant&#233; est d&#233;velopp&#233; au sein du programme Beta.gouv.fr. Le service est actuellement en cours de construction et recherche des testeurs pour am&#233;liorer le produit en continu. Il propose actuellement de l'information sur la qualit&#233; de l'air (air ambiant et risque d'allergie aux pollens) et a vocation &#224; int&#233;grer de nouvelles donn&#233;es environnementales.&lt;/p&gt;
+&lt;p&gt;&lt;span class=&#034;spip-puce ltr&#034;&gt;&lt;b&gt;&#8211;&lt;/b&gt;&lt;/span&gt; Pour d&#233;couvrir le service, rendez-vous sur le site d'inscription : &lt;a href=&#034;https://recosante.beta.gouv.fr/&#034; class='spip_url spip_out auto' rel='nofollow external'&gt;https://recosante.beta.gouv.fr/&lt;/a&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;p&gt;&lt;span class=&#034;spip-puce ltr&#034;&gt;&lt;b&gt;&#8211;&lt;/b&gt;&lt;/span&gt; &lt;strong&gt;R&#233;duire les expositions environnementales affectant la sant&#233; humaine et celle des &#233;cosyst&#232;mes sur l'ensemble du territoire&lt;/strong&gt;&lt;br class='autobr' /&gt;
+La r&#233;duction des expositions environnementales est une priorit&#233; permanente, compte tenu du nombre important et croissant de pathologies humaines et animales en lien avec l'environnement. Lutter contre les nuisibles comme les punaises de lit, am&#233;liorer la qualit&#233; de l'air int&#233;rieur, prot&#233;ger la tranquillit&#233; sonore des citoyens sont autant d'actions pr&#233;vues par le PNSE 4, tout comme la r&#233;duction des expositions aux nanomat&#233;riaux, aux nuisances lumineuses ou aux ondes &#233;lectromagn&#233;tiques.&lt;/p&gt;
+&lt;p&gt;&lt;span class=&#034;spip-puce ltr&#034;&gt;&lt;b&gt;&#8211;&lt;/b&gt;&lt;/span&gt; &lt;strong&gt;D&#233;multiplier les actions concr&#232;tes men&#233;es par les collectivit&#233;s dans les territoires&lt;/strong&gt;&lt;br class='autobr' /&gt;
+Par leurs comp&#233;tences larges, en prise avec le quotidien des Fran&#231;ais, les collectivit&#233;s locales disposent de leviers d'actions importants pour r&#233;duire l'exposition des populations, en tenant compte des sp&#233;cificit&#233;s territoriales. Des initiatives locales innovantes existent d&#233;j&#224;. Afin de les encourager, une plateforme collaborative, &#171; &lt;a href=&#034;https://territoire-environnement-sante.fr/&#034; class='spip_out' rel='external'&gt;Territoire engag&#233; pour mon environnement, ma sant&#233;&lt;/a&gt; &#187;, existe depuis 2019. Elle permet de partager les initiatives des acteurs de terrain, ainsi que des outils d&#233;velopp&#233;s par les collectivit&#233;s et les associations. Le PNSE 4 se donne pour objectif de poursuivre cette dynamique en apportant l'expertise n&#233;cessaire &#224; toutes les &#233;chelles du territoire.&lt;/p&gt;
+&lt;p&gt;&lt;span class=&#034;spip-puce ltr&#034;&gt;&lt;b&gt;&#8211;&lt;/b&gt;&lt;/span&gt; &lt;strong&gt;Mieux conna&#238;tre les expositions et les effets de l'environnement sur la sant&#233; des populations et des &#233;cosyst&#232;mes&lt;/strong&gt;&lt;br class='autobr' /&gt;
+En mati&#232;re de sant&#233; environnement, les efforts de recherche doivent se poursuivre compte tenu des incertitudes encore importantes concernant les liens entre l'environnement et la sant&#233;. Pour r&#233;pondre &#224; ces enjeux, le PNSE 4 cr&#233;e un espace commun de partage de donn&#233;es environnementales et se dote de moyens ambitieux pour mieux conna&#238;tre l'exposome ainsi que les pathog&#232;nes &#233;mergents en lien avec les zoonoses. Le concept d'exposome consiste &#224; consid&#233;rer l'ensemble des expositions tout au long de la vie. Il doit permettre de mieux comprendre et agir sur la survenue des maladies et la possibilit&#233; pour chacun d'&#233;voluer dans un environnement favorable &#224; la sant&#233; des hommes et des &#233;cosyst&#232;mes.&lt;/p&gt;
+&lt;p&gt;Le PNSE 4 compl&#232;te les propositions ambitieuses de la France au niveau europ&#233;en et les nombreuses actions sp&#233;cifiques de l'Etat en mati&#232;re de sant&#233; environnement au niveau national, notamment sur la qualit&#233; de l'air, l'usage des produits phytopharmaceutiques, les perturbateurs endocriniens, la pr&#233;servation de la biodiversit&#233;.&lt;/p&gt;
+&lt;p&gt;&lt;i&gt;&#171; Avec ce plan, nous faisons en effet le pari des territoires, car la sant&#233; environnementale se construit d'abord l&#224; o&#249; vivent les Fran&#231;ais. Avec les &#233;lus de terrain, les collectivit&#233;s, nous allons travailler encore plus pour prot&#233;ger l'incroyable biodiversit&#233; et la sant&#233; humaine. &#187;&lt;/i&gt; a d&#233;clar&#233; Barbara Pompili.&lt;/p&gt;
+&lt;p&gt;&lt;i&gt;&#171; Prot&#233;ger les g&#233;n&#233;rations actuelles comme les g&#233;n&#233;rations futures est aujourd'hui une responsabilit&#233; partag&#233;e. C'est pourquoi le PNSE 4 doit permettre &#224; chacun, &#233;lus, professionnels de sant&#233; et chercheurs, d'agir pour un environnement favorable &#224; la sant&#233; &#187;&lt;/i&gt; a d&#233;clar&#233; Olivier V&#233;ran.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Ressources :&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span class=&#034;spip-puce ltr&#034;&gt;&lt;b&gt;&#8211;&lt;/b&gt;&lt;/span&gt; &lt;a href='https://sante.gouv.fr/IMG/pdf/pnse4.pdf' class='spip_in' type='application/pdf'&gt;4&#232;me Plan National Sant&#233; Environnement, &#171; Un environnement, une sant&#233; &#187;&lt;/a&gt;
+&lt;br /&gt;&lt;span class=&#034;spip-puce ltr&#034;&gt;&lt;b&gt;&#8211;&lt;/b&gt;&lt;/span&gt; &lt;a href='https://sante.gouv.fr/IMG/pdf/plan-sante-environnement_gouvernance.pdf' class='spip_in' type='application/pdf'&gt;Note : Principes g&#233;n&#233;raux de gouvernance et de financement&lt;/a&gt;
+&lt;br /&gt;&lt;span class=&#034;spip-puce ltr&#034;&gt;&lt;b&gt;&#8211;&lt;/b&gt;&lt;/span&gt; &lt;a href='https://sante.gouv.fr/IMG/pdf/plan-sante-environnement_synthese.pdf' class='spip_in' type='application/pdf'&gt;Synth&#232;se du PNSE 4&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span class=&#034;spip-puce ltr&#034;&gt;&lt;b&gt;&#8211;&lt;/b&gt;&lt;/span&gt; &lt;strong&gt;Les enjeux et les mesures phares du PNSE 4 en vid&#233;o&lt;/strong&gt;&lt;/p&gt;
+&lt;center&gt;&lt;iframe width=&#034;560&#034; height=&#034;315&#034; src=&#034;https://www.youtube.com/embed/biqBjSaQK9s&#034; title=&#034;YouTube video player&#034; frameborder=&#034;0&#034; allow=&#034;accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture&#034; allowfullscreen&gt;&lt;/iframe&gt;&lt;/center&gt;&lt;/div&gt;
+		
+		</content:encoded>
+
+
+		
+		<enclosure url="https://sante.gouv.fr/IMG/pdf/pnse4.pdf" length="5481081" type="application/pdf" />
+		
+
+	</item>
+<item xml:lang="fr">
+		<title>Grippe saisonni&#232;re</title>
+		<link>https://sante.gouv.fr/soins-et-maladies/maladies/maladies-infectieuses/les-maladies-de-l-hiver/grippe-saisonniere</link>
+		<guid isPermaLink="true">https://sante.gouv.fr/soins-et-maladies/maladies/maladies-infectieuses/les-maladies-de-l-hiver/grippe-saisonniere</guid>
+		<dc:date>2018-10-19T09:30:00Z</dc:date>
+		<dc:format>text/html</dc:format>
+		<dc:language>fr</dc:language>
+		<dc:creator>Minist&#232;re de la Sant&#233; et de la Pr&#233;vention</dc:creator>
+
+
+		<dc:subject>Maladies</dc:subject>
+
+		<description>&lt;p&gt;La grippe saisonni&#232;re, consid&#233;r&#233;e &#224; tort comme b&#233;nigne, touche chaque ann&#233;e plusieurs millions de personnes en France et peut s'av&#233;rer mortelle, en particulier pour les personnes fragiles.&lt;/p&gt;
+&lt;p&gt;Chacun doit adopter les &#171; gestes barri&#232;res &#187;, un ensemble de mesures simples de pr&#233;vention : lavage r&#233;gulier des mains, limitation des contacts pour les malades, port de masque, etc.&lt;/p&gt;
+&lt;p&gt;La vaccination contre la grippe peut sauver des vies, en aidant &#224; combattre le virus et en diminuant le risque de complications. &#192; l'approche de l'hiver, il s'agit d'un geste compl&#233;mentaire &#224; adopter pour les populations fragiles et leur entourage pour se prot&#233;ger soi et ses proches.&lt;/p&gt;
+
+-
+&lt;a href="https://sante.gouv.fr/soins-et-maladies/maladies/maladies-infectieuses/les-maladies-de-l-hiver/" rel="directory"&gt;Les maladies de l'hiver&lt;/a&gt;
+
+/ 
+&lt;a href="https://sante.gouv.fr/mot/maladies" rel="tag"&gt;Maladies&lt;/a&gt;
+
+		</description>
+
+
+ <content:encoded>&lt;img src='https://sante.gouv.fr/local/cache-vignettes/L150xH94/arton203588-e1bca.png?1680515267' class='spip_logo spip_logo_right' width='150' height='94' alt=&#034;&#034; /&gt;
+		&lt;div class='rss_chapo'&gt;&lt;p&gt;La grippe est une infection respiratoire qui peut entra&#238;ner chez les personnes &#224; risque des complications graves, telles qu'une pneumonie ou l'aggravation d'une maladie chronique d&#233;j&#224; existante (diab&#232;te, insuffisance cardiaque ou respiratoire, etc.). La pr&#233;vention de la grippe est un enjeu majeur dans le contexte de co-circulation avec la Covid-19.&lt;/p&gt;
+&lt;p&gt;Chacun doit adopter les &#171; gestes barri&#232;res &#187;, un ensemble de mesures simples de pr&#233;vention : lavage r&#233;gulier des mains, limitation des contacts pour les malades, port de masque, etc.&lt;/p&gt;
+&lt;p&gt;La vaccination contre la grippe et contre la Covid-19 peut sauver des vies, en aidant &#224; combattre le virus et en diminuant le risque de complications. &#192; l'approche de l'hiver, il s'agit &#233;galement d'un geste essentiel &#224; adopter pour les populations fragiles, pour se prot&#233;ger soi et ses proches.&lt;/p&gt;
+&lt;p&gt;Les gestes barri&#232;re une fois combin&#233;s &#224; la vaccination des populations cibles constituent un bouclier de protection qui limite la propagation des virus et contribue &#224; sauver des vies.&lt;/p&gt;&lt;/div&gt;
+		&lt;div class='rss_texte'&gt;&lt;h3 class=&#034;spip&#034;&gt;Actualit&#233;s&lt;/h3&gt;
+&lt;p&gt;&lt;strong&gt;Lancement de la campagne de vaccination contre la grippe saisonni&#232;re le 18 octobre 2022&lt;/strong&gt;
+&lt;br&gt;
+&lt;br&gt;&lt;/p&gt;
+&lt;div class=&#034;texteencadre-spip spip&#034;&gt;Ce 18 octobre 2022 marque le coup d'envoi de la campagne de vaccination contre la grippe qui cette ann&#233;e se d&#233;roulera de mani&#232;re concomitante avec la campagne de vaccination contre le Covid-19 d&#233;but&#233;e le 3 octobre, conform&#233;ment &#224; l'avis de la Haute Autorit&#233; de Sant&#233; (HAS) du 20 septembre 2022.
+&lt;br /&gt;&lt;span class=&#034;spip-puce ltr&#034;&gt;&lt;b&gt;&#8211;&lt;/b&gt;&lt;/span&gt; Consulter le dossier de presse &#034; &lt;a href='https://sante.gouv.fr/IMG/pdf/info_presse_vaccination_grippe_2022-2023.pdf' class='spip_in' type='application/pdf'&gt;Vaccination contre la grippe 2022-2023. Un r&#233;flexe &#224; renforcer aupr&#232;s des &lt;br class='autobr' /&gt; personnes les plus fragiles&lt;/a&gt;&#034;
+&lt;br /&gt;&lt;span class=&#034;spip-puce ltr&#034;&gt;&lt;b&gt;&#8211;&lt;/b&gt;&lt;/span&gt; &lt;a href=&#034;https://www.ameli.fr/paris/assure/actualites/grippe-coup-d-envoi-de-la-campagne-de-vaccination-antigrippale&#034; class='spip_out' rel='external'&gt;En savoir plus sur la campagne d'information de l'Assurance maladie&lt;/a&gt;&lt;/div&gt;
+&lt;p&gt;La grippe n'a pas disparu. &lt;strong&gt;Cette infection respiratoire aigu&#235; tr&#232;s contagieuse reste toujours aussi impr&#233;visible et dangereuse pour les personnes &#224; risque&lt;/strong&gt; : celles de 65 ans et plus, celles atteintes d'une maladie chronique ou d'une ob&#233;sit&#233; s&#233;v&#232;re, ou encore les femmes enceintes. Pour ces populations, la vaccination est une arme efficace pour se prot&#233;ger contre le virus de la grippe, en compl&#233;ment des gestes barri&#232;res dans la lutte contre tous les virus respiratoires.&lt;/p&gt;
+&lt;p&gt;Alors qu'une recrudescence des virus grippaux pourrait &#234;tre observ&#233;e cet hiver, et que le Sars-Cov2 continue de circuler, il convient de souligner l'importance majeure d'une couverture vaccinale antigrippale et anti-SARS-CoV-2 &#233;lev&#233;e chez les personnes &#224; risque.&lt;/p&gt;
+&lt;p&gt;Face &#224; la n&#233;cessit&#233; de rappeler aux personnes &#224; risque leur fragilit&#233; vis-&#224;-vis de la grippe et la protection que conf&#232;re la vaccination, l'Assurance Maladie, en partenariat avec le minist&#232;re de la Sant&#233; et de la Pr&#233;vention, Sant&#233; publique France et la MSA, relance une campagne d'information et de sensibilisation.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt; &lt;i&gt;&#8220;&#192; partir de 65 ans, lorsque l'on est atteint d'une maladie chronique ou quand on est enceinte, le corps se d&#233;fend moins bien contre les virus. Contre la grippe AUSSI, la vaccination est le moyen le plus efficace de r&#233;duire les risques de complications. Vaccinez-vous.&#8221; &lt;/i&gt; &lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong class=&#034;caractencadre-spip spip&#034;&gt;Pour prot&#233;ger les personnes fragiles, le minist&#232;re de la Sant&#233; et de la Pr&#233;vention tient &#224; leur assurer un acc&#232;s prioritaire aux vaccins contre la grippe au d&#233;but de la campagne de vaccination : la d&#233;livrance et l'administration du vaccin contre la grippe leurs sont r&#233;serv&#233;es pendant les 4 premi&#232;res semaines de la campagne, soit du 18 octobre au 15 novembre 2022.&lt;/strong&gt;&lt;/p&gt;
+&lt;h3 class=&#034;spip&#034;&gt;Adopter les gestes barri&#232;res&lt;/h3&gt;
+&lt;p&gt;Le virus de la grippe se transmet essentiellement par :&lt;/p&gt;
+&lt;p&gt;&lt;span class=&#034;spip-puce ltr&#034;&gt;&lt;b&gt;&#8211;&lt;/b&gt;&lt;/span&gt; la projection de gouttelettes charg&#233;es de virus &#233;mises lors de toux ou des &#233;ternuements de personnes infect&#233;es
+&lt;br /&gt;&lt;span class=&#034;spip-puce ltr&#034;&gt;&lt;b&gt;&#8211;&lt;/b&gt;&lt;/span&gt; le biais des mains et d'objets contamin&#233;s par les gouttelettes &#233;mises par une personne infect&#233;e.&lt;/p&gt;
+&lt;p&gt;Pour &#233;viter l'infection par le virus de la grippe, il est n&#233;cessaire de mettre en place une s&#233;rie de mesures : la premi&#232;re d'entre elles est d'adopter des gestes barri&#232;res pour limiter la transmission du virus.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Les gestes barri&#232;res sont les m&#234;mes que ceux qui prot&#232;gent du Covid-19 et des autres virus de l'hiver (rhinovirus, virus de la bronchiolite, gastroent&#233;rites, etc),&lt;/strong&gt; il s'agit de gestes et comportements individuels et/ou collectifs &#224; appliquer d&#232;s qu'on pr&#233;sente un signe d'infection notamment respiratoire pour prot&#233;ger son entourage :&lt;/p&gt;
+&lt;p&gt;&lt;span class=&#034;spip-puce ltr&#034;&gt;&lt;b&gt;&#8211;&lt;/b&gt;&lt;/span&gt; porter un masque &lt;br /&gt;&lt;span class=&#034;spip-puce ltr&#034;&gt;&lt;b&gt;&#8211;&lt;/b&gt;&lt;/span&gt; se saluer sans se serrer la main ou sans s'embrasser &lt;br /&gt;&lt;span class=&#034;spip-puce ltr&#034;&gt;&lt;b&gt;&#8211;&lt;/b&gt;&lt;/span&gt; se laver les mains &lt;br /&gt;&lt;span class=&#034;spip-puce ltr&#034;&gt;&lt;b&gt;&#8211;&lt;/b&gt;&lt;/span&gt; a&#233;rer les pi&#232;ces &lt;br /&gt;&lt;span class=&#034;spip-puce ltr&#034;&gt;&lt;b&gt;&#8211;&lt;/b&gt;&lt;/span&gt; tousser et &#233;ternuer dans son coude&lt;/p&gt;
+&lt;p&gt;&lt;span class=&#034;spip-puce ltr&#034;&gt;&lt;b&gt;&#8211;&lt;/b&gt;&lt;/span&gt; &lt;a href=&#034;https://www.ameli.fr/assure/sante/themes/grippe/prevention&#034; class='spip_out' rel='external'&gt;En savoir plus sur la grippe et les moyens de la pr&#233;venir&lt;/a&gt;&lt;/p&gt;
+&lt;h3 class=&#034;spip&#034;&gt;La vaccination contre la grippe saisonni&#232;re&lt;/h3&gt;&lt;table class=&#034;table spip&#034;&gt;
+&lt;tbody&gt;
+&lt;tr class='row_odd odd'&gt;
+&lt;td&gt;&lt;dl class='spip_document_378683 spip_documents spip_documents_left' style='float:left;width:351px;'&gt;
+&lt;dt&gt; &lt;a href='https://sante.gouv.fr/IMG/pdf/aff_grippe_2022_a3.pdf' class=&#034;spip_in&#034; title=' PNG - 94.2&#160;ko' type=&#034;application/pdf&#034;&gt; &lt;img src='https://sante.gouv.fr/local/cache-vignettes/L351xH497/aff_grippe_2022_a3-a5ae3.png?1680762629' width='351' height='497' alt='' /&gt; &lt;/a&gt;
+&lt;/dt&gt;
+&lt;/dl&gt;&lt;/td&gt;
+&lt;td&gt;&lt;strong&gt;En compl&#233;ment des gestes barri&#232;res,&lt;/strong&gt; la vaccination est un des moyens les plus efficaces pour prot&#233;ger les personnes fragiles de la grippe. Elle permet en France d'&#233;viter plus de 2 000 d&#233;c&#232;s par an.&lt;br /&gt; &lt;br /&gt;La vaccination contre la grippe saisonni&#232;re est fortement recommand&#233;e &lt;strong&gt;pour les personnes les plus fragiles&lt;/strong&gt; (personnes &#226;g&#233;es de 65 ans et plus, femmes enceintes, personnes atteintes de certaines maladies chroniques, personnes ob&#232;ses ayant un Indice de Masse Corporelle sup&#233;rieur ou &#233;gal &#224; 40). Le virus est plus dangereux pour elles car il peut entra&#238;ner des complications graves.&lt;br /&gt; &lt;br /&gt;La&lt;strong&gt; vaccination des soignants et des professionnels en contact r&#233;gulier avec des personnes pr&#233;sentant un risque de grippe s&#233;v&#232;re &lt;/strong&gt; (personnes &#226;g&#233;es, nourrissons, malades&#8230;) est &#233;galement recommand&#233;e.&lt;br /&gt; &lt;br /&gt;La vaccination contre la grippe de l'&lt;strong&gt;entourage familial des nourrissons de moins de 6 mois&lt;/strong&gt; particuli&#232;rement fragiles, et des personnes immunod&#233;prim&#233;es est recommand&#233;e.&lt;/td&gt;&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;p&gt;&lt;span class=&#034;spip-puce ltr&#034;&gt;&lt;b&gt;&#8211;&lt;/b&gt;&lt;/span&gt; T&#233;l&#233;charger l'affiche (A3) : &#034;&lt;a href='https://sante.gouv.fr/IMG/pdf/aff_grippe_2022_a3.pdf' class='spip_in' type='application/pdf'&gt;La grippe arrive mais son vaccin est d&#233;j&#224; l&#224; - Votre pharmacien peut vous vacciner&lt;/a&gt;&#034;&lt;/p&gt;
+&lt;p&gt;&lt;span class=&#034;spip-puce ltr&#034;&gt;&lt;b&gt;&#8211;&lt;/b&gt;&lt;/span&gt; En savoir plus sur la &lt;a href=&#034;https://www.ameli.fr/assure/sante/themes/grippe/prevention#text_4913&#034; class='spip_out' rel='external'&gt;vaccination contre la grippe saisonni&#232;re en pratique&lt;/a&gt; sur le site ameli.fr&lt;/p&gt;
+&lt;p&gt;&lt;span class=&#034;spip-puce ltr&#034;&gt;&lt;b&gt;&#8211;&lt;/b&gt;&lt;/span&gt; Consulter la &lt;a href='https://sante.gouv.fr/prevention-en-sante/preserver-sa-sante/vaccination/calendrier-vaccinal' class='spip_in'&gt;liste compl&#232;te des personnes pour lesquelles la vaccination est recommand&#233;e&lt;/a&gt; dans le calendrier des vaccinations 2022.&lt;/p&gt;
+&lt;h3 class=&#034;spip&#034;&gt;Pour &#234;tre doublement prot&#233;g&#233; : se vacciner contre la grippe et contre la Covid-19&lt;/h3&gt;
+&lt;p&gt;Les personnes les plus expos&#233;es aux formes s&#233;v&#232;res de grippe saisonni&#232;re sont &#233;galement celles qui sont le plus &#224; risque de d&#233;velopper une infection grave &#224; la Covid-19. Pour ces personnes, il est essentiel d'&#234;tre prot&#233;g&#233; par les deux vaccinations.&lt;/p&gt;
+&lt;p&gt;Les vaccinations contre la grippe et contre le Covid-19 peuvent &#234;tre r&#233;alis&#233;es en un seul temps. Si les deux vaccinations ne peuvent pas avoir lieu en m&#234;me temps, il n'y a pas de d&#233;lai d'attente &#224; respecter entre les deux. L'important est de faire les deux vaccinations afin d'&#234;tre prot&#233;g&#233; contre les deux maladies.&lt;/p&gt;
+&lt;p&gt;En savoir plus sur &lt;a href=&#034;https://solidarites-sante.gouv.fr/grands-dossiers/vaccin-covid-19/&#034; class='spip_out' rel='external'&gt;la vaccination covid sur le site du minist&#232;re de la Sant&#233; et de la pr&#233;vention&lt;/a&gt;&lt;/p&gt;
+&lt;hr class=&#034;spip&#034; /&gt;
+&lt;p&gt;&lt;strong&gt;Sites de r&#233;f&#233;rence sur la grippe saisonni&#232;re :&lt;/strong&gt;&lt;/p&gt;
+&lt;ul class=&#034;spip&#034;&gt;&lt;li&gt; &lt;a href=&#034;https://www.ameli.fr/assure/sante/themes/grippe-saisonniere&#034; class='spip_out' rel='external'&gt;L'Assurance maladie&lt;/a&gt;&lt;/li&gt;&lt;li&gt; &lt;a href=&#034;https://vaccination-info-service.fr/Les-maladies-et-leurs-vaccins/Grippe&#034; class='spip_out' rel='external'&gt;Vaccination-info-service : la grippe&lt;/a&gt;&lt;/li&gt;&lt;li&gt; &lt;a href=&#034;https://www.sentiweb.fr/france/fr/?page=maladies&amp;mal=25&#034; class='spip_out' rel='external'&gt;R&#233;seau Sentinelles&lt;/a&gt;&lt;/li&gt;&lt;li&gt; &lt;a href=&#034;http://www.who.int/fr/news-room/fact-sheets/detail/influenza-(seasonal)&#034; class='spip_out' rel='external'&gt;OMS&lt;/a&gt;&lt;/li&gt;&lt;/ul&gt;&lt;hr class=&#034;spip&#034; /&gt;&lt;/div&gt;
+		
+		</content:encoded>
+
+
+		
+
+	</item>
+<item xml:lang="fr">
+		<title>La France pr&#233;sente quelques unes de ses mesures innovantes pour lutter contre l'antibior&#233;sistance</title>
+		<link>https://sante.gouv.fr/prevention-en-sante/les-antibiotiques-des-medicaments-essentiels-a-preserver/des-politiques-publiques-pour-preserver-l-efficacite-des-antibiotiques/documents-de-synthese-presentant-la-strategie-nationale-de-lutte-contre-l/quelques-mesures-innovantes-pour-lutter-contre-l-antibioresistance</link>
+		<guid isPermaLink="true">https://sante.gouv.fr/prevention-en-sante/les-antibiotiques-des-medicaments-essentiels-a-preserver/des-politiques-publiques-pour-preserver-l-efficacite-des-antibiotiques/documents-de-synthese-presentant-la-strategie-nationale-de-lutte-contre-l/quelques-mesures-innovantes-pour-lutter-contre-l-antibioresistance</guid>
+		<dc:date>2019-05-10T15:27:50Z</dc:date>
+		<dc:format>text/html</dc:format>
+		<dc:language>fr</dc:language>
+		<dc:creator>Minist&#232;re de la Sant&#233; et de la Pr&#233;vention</dc:creator>
+
+
+
+		<description>
+&lt;p&gt;La France est engag&#233;e depuis de nombreuses ann&#233;es dans la lutte contre l'antibior&#233;sistance, qui est une r&#233;elle menace pour la sant&#233; publique, identifi&#233;e comme sujet prioritaire par l'OMS et les Nations Unies.
+&lt;br class='autobr' /&gt;
+Une feuille de route interminist&#233;rielle publi&#233;e en 2016 liste d'ailleurs 40 actions &#224; mener en France, dans une perspective &#034;Une seule sant&#233;&#034;. &lt;br class='autobr' /&gt; Ce document d'information publi&#233; en mars 2022 pr&#233;sente de mani&#232;re succincte quelques mesures innovantes mises en place en France en sant&#233; humaine, animale et (&#8230;)&lt;/p&gt;
+
+
+-
+&lt;a href="https://sante.gouv.fr/prevention-en-sante/les-antibiotiques-des-medicaments-essentiels-a-preserver/des-politiques-publiques-pour-preserver-l-efficacite-des-antibiotiques/documents-de-synthese-presentant-la-strategie-nationale-de-lutte-contre-l/" rel="directory"&gt;Documents de synth&#232;se pr&#233;sentant la strat&#233;gie nationale de lutte contre l'antibior&#233;sistance&lt;/a&gt;
+
+
+		</description>
+
+
+ <content:encoded>&lt;div class='rss_chapo'&gt;&lt;p&gt;La France est engag&#233;e depuis de nombreuses ann&#233;es dans la &lt;strong&gt;lutte contre l'antibior&#233;sistance&lt;/strong&gt;, qui est une r&#233;elle menace pour la sant&#233; publique, identifi&#233;e comme sujet prioritaire par l'OMS et les Nations Unies.&lt;br class='autobr' /&gt;
+Une &lt;a href='https://sante.gouv.fr/IMG/pdf/feuille_de_route_antibioresistance_nov_2016.pdf' class='spip_in' type='application/pdf'&gt;feuille de route interminist&#233;rielle&lt;/a&gt; publi&#233;e en 2016 liste d'ailleurs 40 actions &#224; mener en France, dans une perspective &#034;Une seule sant&#233;&#034;.&lt;/p&gt;&lt;/div&gt;
+		&lt;div class='rss_texte'&gt;&lt;p&gt;Ce document d'information publi&#233; en mars 2022 pr&#233;sente de mani&#232;re succincte quelques &lt;a href='https://sante.gouv.fr/IMG/pdf/brochure_mesures_innovantes_lutte_atbr-fr_vf.pdf' class='spip_in' type='application/pdf'&gt;&lt;strong&gt;mesures innovantes mises en place en France en sant&#233; humaine, animale et dans l'environnement pour ma&#238;triser l'antibior&#233;sistance&lt;/strong&gt;&lt;/a&gt;, dans une approche &#171; Une seule sant&#233; &#187;. Pour consulter la version en anglais, &lt;a href='https://sante.gouv.fr/IMG/pdf/brochure_mesures_innovantes_lutte_atbr-en_vf.pdf' class='spip_in' type='application/pdf'&gt;cliquez ici&lt;/a&gt;.&lt;/p&gt;
+&lt;dl class='spip_document_376848 spip_documents spip_documents_center'&gt;
+&lt;dt&gt; &lt;a href='https://sante.gouv.fr/IMG/pdf/brochure_mesures_innovantes_lutte_atbr-fr_vf.pdf' class=&#034;spip_in&#034; title=' JPEG - 59.7&#160;ko' type=&#034;application/pdf&#034;&gt; &lt;img src='https://sante.gouv.fr/local/cache-vignettes/L340xH519/1er_de_couv_brochure_pfue-54cb7.jpg?1680762602' width='340' height='519' alt='' /&gt; &lt;/a&gt;
+&lt;/dt&gt;
+&lt;/dl&gt;
+&lt;p&gt;&lt;span class=&#034;spip-puce ltr&#034;&gt;&lt;b&gt;&#8211;&lt;/b&gt;&lt;/span&gt; Consultez les documents des ann&#233;es pr&#233;c&#233;dentes / Check out previous years' documents&lt;/p&gt;
+&lt;table class=&#034;table spip&#034;&gt;
+&lt;tbody&gt;
+&lt;tr class='row_odd odd'&gt;
+&lt;td&gt;&lt;center&gt;2021&lt;center/&gt;&lt;/td&gt;
+&lt;td&gt;&lt;center&gt;&lt;a href='https://sante.gouv.fr/IMG/pdf/8_pages_antibioresistance-final_-fr.pdf' class='spip_in' type='application/pdf'&gt;Version fran&#231;aise&lt;center/&gt;&lt;/a&gt;&lt;/td&gt;
+&lt;td&gt;&lt;center&gt;&lt;a href='https://sante.gouv.fr/IMG/pdf/8_pages_antibioresistance-final-en.pdf' class='spip_in' type='application/pdf'&gt;
+&lt;p&gt;English version&lt;/p&gt;
+&lt;/center&gt;&lt;/a&gt;
+&lt;/td&gt;&lt;/tr&gt;
+&lt;tr class='row_even even'&gt;
+&lt;td&gt;&lt;center&gt;2020&lt;/center&gt;&lt;/td&gt;
+&lt;td&gt;&lt;center&gt;&lt;a href='https://sante.gouv.fr/IMG/pdf/quelques_mesures_innovantes_2020.pdf' class='spip_in' type='application/pdf'&gt;
+&lt;p&gt;Version fran&#231;aise&lt;/p&gt;
+&lt;/center&gt;&lt;/a&gt;
+&lt;/td&gt;
+&lt;td&gt;&lt;center&gt;&lt;a href='https://sante.gouv.fr/IMG/pdf/innovative_measures_french_nap_2020.pdf' class='spip_in' type='application/pdf'&gt;
+&lt;p&gt;English version&lt;/p&gt;
+&lt;/center&gt;&lt;/a&gt;
+&lt;/td&gt;&lt;/tr&gt;
+&lt;tr class='row_odd odd'&gt;
+&lt;td&gt;&lt;center&gt;2019&lt;/center&gt;&lt;/td&gt;
+&lt;td&gt;&lt;center&gt;&lt;a href='https://sante.gouv.fr/IMG/pdf/mesures_innovantes_atb.pdf' class='spip_in' type='application/pdf'&gt;
+&lt;p&gt;Version fran&#231;aise&lt;/p&gt;
+&lt;/center&gt;&lt;/a&gt;
+&lt;/td&gt;
+&lt;td&gt;&lt;center&gt;&lt;a href='https://sante.gouv.fr/IMG/pdf/quelques_mesures_innovantes_pour_lutter_contre_l_antibioresistance.pdf' class='spip_in' type='application/pdf'&gt;
+&lt;p&gt;English version&lt;/p&gt;
+&lt;/center&gt;&lt;/a&gt;
+&lt;/td&gt;&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;&lt;/div&gt;
+		
+		</content:encoded>
+
+
+		
+
+	</item>
+<item xml:lang="fr">
+		<title>Liste des produits de sant&#233; financ&#233;s au titre des prestations d'hospitalisation pr&#233;vue &#224; l'article L. 165-11 du code de la s&#233;curit&#233; sociale</title>
+		<link>https://sante.gouv.fr/soins-et-maladies/autres-produits-de-sante/dispositifs-medicaux/liste-intra-ghs</link>
+		<guid isPermaLink="true">https://sante.gouv.fr/soins-et-maladies/autres-produits-de-sante/dispositifs-medicaux/liste-intra-ghs</guid>
+		<dc:date>2016-04-28T12:31:11Z</dc:date>
+		<dc:format>text/html</dc:format>
+		<dc:language>fr</dc:language>
+		<dc:creator>Minist&#232;re de la Sant&#233; et de la Pr&#233;vention</dc:creator>
+
+
+		<dc:subject>Produits de sant&#233;</dc:subject>
+
+		<description>&lt;p&gt;Liste dite &#171; intra-GHS &#187;&lt;/p&gt;
+
+-
+&lt;a href="https://sante.gouv.fr/soins-et-maladies/autres-produits-de-sante/dispositifs-medicaux/" rel="directory"&gt;Dispositifs m&#233;dicaux &lt;/a&gt;
+
+/ 
+&lt;a href="https://sante.gouv.fr/mot/produits-de-sante-1173" rel="tag"&gt;Produits de sant&#233;&lt;/a&gt;
+
+		</description>
+
+
+ <content:encoded>&lt;div class='rss_chapo'&gt;&lt;p&gt;Le dispositif &#171; intra-GHS &#187;, introduit &#224; l'article L. 165-11 du code de la s&#233;curit&#233; sociale par la loi du 29 d&#233;cembre 2011 de renforcement de la s&#233;curit&#233; sanitaire du m&#233;dicament et des produits de sant&#233;, conditionne l'achat, la fourniture et l'utilisation de certains dispositifs m&#233;dicaux par les &#233;tablissements de sant&#233;, et leur prise en charge au titre des prestations d'hospitalisation, &#224; l'inscription sur une liste, dite &#171; intra-GHS &#187;.&lt;/p&gt;&lt;/div&gt;
+		&lt;div class='rss_texte'&gt;&lt;div class=&#034;texteencadre-spip spip&#034;&gt;&lt;strong class=&#034;caractencadre-spip spip&#034;&gt;Actualit&#233;&lt;/strong&gt; &lt;br&gt;
+&lt;br&gt;
+&lt;p&gt;L'inscription sur la liste positive &#171; intra-GHS &#187; mentionn&#233;e aux articles L.165-11 et R.165-49 du code de la s&#233;curit&#233; sociale des bandelettes sous-ur&#233;trales de r&#233;f&#233;rence BSU001, BSU002, BSU007, BSU008, BSU009, BSU010, BSU011, BSU012, BSU015, BSU016, BSU017, BSU018, BSU019, BSU020 est prolong&#233;e jusqu'au 15 juin 2024.&lt;/p&gt;
+&lt;p&gt;Les r&#233;f&#233;rences fabricants et IUD-ID concern&#233;s sont d&#233;taill&#233;s dans le r&#233;f&#233;rentiel mis &#224; jour et disponible au t&#233;l&#233;chargement. &lt;br&gt;
+&lt;br&gt;&lt;/p&gt;
+&lt;/div&gt;&lt;h3 class=&#034;spip&#034;&gt;Rappel du dispositif &lt;/h3&gt;
+&lt;p&gt;Les dispositifs m&#233;dicaux concern&#233;s par le dispositif &#171; intra-GHS &#187;appartiennent &#224; des cat&#233;gories homog&#232;nes de produits de sant&#233; d&#233;termin&#233;es par arr&#234;t&#233;s des ministres charg&#233;s de la sant&#233; et de la s&#233;curit&#233; sociale. Ces cat&#233;gories de dispositifs m&#233;dicaux sont d&#233;termin&#233;es au regard de leurs caract&#232;res invasifs ou des risques que ces derniers peuvent pr&#233;senter pour la sant&#233; humaine.&lt;/p&gt;
+&lt;p&gt;Afin d'&#234;tre inscrits sur la liste &#171; intra-GHS &#187;, les dispositifs m&#233;dicaux doivent faire l'objet au pr&#233;alable d'une &#233;valuation par la Commission nationale d'&#233;valuation des dispositifs m&#233;dicaux et des technologies de sant&#233; (CNEDiMTS) de la Haute autorit&#233; de sant&#233; (HAS). &lt;br class='autobr' /&gt;
+Les dispositifs m&#233;dicaux doivent justifer de l'une au moins des exigences suivantes : la validation de l'efficacit&#233; clinique des dispositifs, la d&#233;finition de sp&#233;cifications techniques particuli&#232;res ou l'appr&#233;ciation de leur efficience au regard des alternatives th&#233;rapeutiques disponibles.&lt;br class='autobr' /&gt;
+Cette &#233;valuation permet ainsi, dans des domaines o&#249; les risques et les enjeux pour les patients sont majeurs, de renforcer l'obligation de production de donn&#233;es cliniques, au-del&#224; de celles fournies &#224; l'appui de la demande de marquage CE, dans le but d'&#233;tayer la pertinence de leur utilisation et de leur prise en charge, dans le contexte de soins fran&#231;ais.&lt;/p&gt;
+&lt;p&gt;Sur la base de l'avis rendu par la CNEDiMTS &#224; l'issue de son &#233;valuation, les ministres charg&#233;s de la sant&#233; et de la s&#233;curit&#233; sociale prennent la d&#233;cision d'inscrire (par un arr&#234;t&#233; publi&#233; au JO) ou non les dispositifs m&#233;dicaux sur la liste &#171; intra-GHS &#187;. Au-del&#224; du d&#233;lai fix&#233; par l'arr&#234;t&#233; fixant les cat&#233;gories homog&#232;nes, les dispositifs m&#233;dicaux concern&#233;s doivent &#234;tre inscrits sur cette liste positive pour continuer &#224; pouvoir &#234;tre achet&#233;s et utilis&#233;s par les &#233;tablissements de sant&#233; et &#234;tre pris en charge au titre des prestations d'hospitalisation.&lt;/p&gt;
+&lt;p&gt;L'inscription des DM concern&#233;s sur la liste &#171; intra-GHS &#187; s'effectue sous forme de nom de marque ou de ligne g&#233;n&#233;rique selon les modalit&#233;s d&#233;termin&#233;es pour chaque cat&#233;gorie homog&#232;ne de DM. &lt;/p&gt;
+&lt;p&gt;Le dispositif &#171; intra-GHS &#187; est r&#233;glement&#233; dans le code de la s&#233;curit&#233; sociale aux articles &lt;a href=&#034;https://www.legifrance.gouv.fr/affichCodeArticle.do?cidTexte=LEGITEXT000006073189&amp;idArticle=LEGIARTI000025081338&amp;dateTexte=&amp;categorieLien=cid&#034; class='spip_out' rel='external'&gt;L. 165-11&lt;/a&gt; et &lt;a href=&#034;https://www.legifrance.gouv.fr/affichCode.do;jsessionid=5BAAECA1C748D7EC3ED9415AC275222F.tpdila10v_2?idSectionTA=LEGISCTA000026370758&amp;cidTexte=LEGITEXT000006073189&amp;dateTexte=20160129&#034; class='spip_out' rel='external'&gt;R. 165-49 &#224; R.165-62&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;&lt;i&gt;Cadre de l'utilisation des dispositifs m&#233;dicaux appartenant &#224; une des cat&#233;gories homog&#232;nes de la liste intra-GHS dans le cadre de recherche impliquant la personne humaine&lt;/i&gt;&lt;/p&gt;
+&lt;p&gt;Dans la mesure o&#249; les dispositifs ne sont pas pris en charge au titre des prestations d'hospitalisation, les &#233;tablissements de sant&#233; peuvent dans le cadre de recherches impliquant la personne humaine relevant du titre II du livre Ier de la premi&#232;re partie du code de la sant&#233; publique se fournir et utiliser les dispositifs m&#233;dicaux appartenant aux cat&#233;gories homog&#232;nes de dispositifs et qui ne sont pas inscrits sur la liste dite &#171; intra-GHS &#187;.&lt;/p&gt;
+&lt;h3 class=&#034;spip&#034;&gt;Les cat&#233;gories homog&#232;nes retenues au titre de 2013&lt;/h3&gt;
+&lt;p&gt;L'&lt;a href=&#034;https://www.legifrance.gouv.fr/jorf/article_jo/JORFARTI000036150896&#034; class='spip_out' rel='external'&gt;arr&#234;t&#233; du 28 novembre 2013&lt;/a&gt; modifi&#233; a d&#233;fini 5 cat&#233;gories homog&#232;nes de dispositifs m&#233;dicaux n&#233;cessitant une &#233;valuation :&lt;/p&gt;
+&lt;p&gt;&lt;span class=&#034;spip-puce ltr&#034;&gt;&lt;b&gt;&#8211;&lt;/b&gt;&lt;/span&gt; les d&#233;fibrillateurs cardiaques implantables conventionnels avec sonde endocavitaire (simple, double et triple chambre) ; &lt;br /&gt;&lt;span class=&#034;spip-puce ltr&#034;&gt;&lt;b&gt;&#8211;&lt;/b&gt;&lt;/span&gt; les d&#233;fibrillateurs cardiaques implantables sans sonde endocavitaire ; &lt;br /&gt;&lt;span class=&#034;spip-puce ltr&#034;&gt;&lt;b&gt;&#8211;&lt;/b&gt;&lt;/span&gt; les stents intracr&#226;niens utilis&#233;s dans l'angioplastie des st&#233;noses ath&#233;romateuses ; &lt;br /&gt;&lt;span class=&#034;spip-puce ltr&#034;&gt;&lt;b&gt;&#8211;&lt;/b&gt;&lt;/span&gt; les valves cardiaques chirurgicales biologiques avec suture
+&lt;br /&gt;&lt;span class=&#034;spip-puce ltr&#034;&gt;&lt;b&gt;&#8211;&lt;/b&gt;&lt;/span&gt; les valves cardiaques chirurgicales biologiques sans suture&lt;/p&gt;
+&lt;h3 class=&#034;spip&#034;&gt;Les cat&#233;gories homog&#232;nes d&#233;finies au titre de 2019&lt;/h3&gt;
+&lt;p&gt;L'arr&#234;t&#233; du 22 f&#233;vrier 2019, modifi&#233; successivement par les &lt;a href=&#034;https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000041936916&#034; class='spip_out' rel='external'&gt;arr&#234;t&#233;s du 26 novembre 2019 et du 28 mai 2020&lt;/a&gt;, du &lt;a href=&#034;https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042387496&#034; class='spip_out' rel='external'&gt;23 septembre 2020&lt;/a&gt; et du &lt;a href=&#034;https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000043168500&#034; class='spip_out' rel='external'&gt;20 f&#233;vrier 2021&lt;/a&gt; a d&#233;fini 5 nouvelles cat&#233;gories homog&#232;nes de dispositifs m&#233;dicaux :&lt;/p&gt;
+&lt;p&gt;&lt;span class=&#034;spip-puce ltr&#034;&gt;&lt;b&gt;&#8211;&lt;/b&gt;&lt;/span&gt; les dispositifs implantables destin&#233;s au traitement par voie vaginale du prolapsus des organes pelviens ; &lt;br /&gt;&lt;span class=&#034;spip-puce ltr&#034;&gt;&lt;b&gt;&#8211;&lt;/b&gt;&lt;/span&gt; les dispositifs implantables destin&#233;s au traitement par voie vaginale de l'incontinence urinaire ; &lt;br /&gt;&lt;span class=&#034;spip-puce ltr&#034;&gt;&lt;b&gt;&#8211;&lt;/b&gt;&lt;/span&gt; les dispositifs destin&#233;s au traitement par voie haute du prolapsus des organes pelviens ; &lt;br /&gt;&lt;span class=&#034;spip-puce ltr&#034;&gt;&lt;b&gt;&#8211;&lt;/b&gt;&lt;/span&gt; les stents intracr&#226;niens pour diversion de flux (flow diverter) ;
+&lt;br /&gt;&lt;span class=&#034;spip-puce ltr&#034;&gt;&lt;b&gt;&#8211;&lt;/b&gt;&lt;/span&gt; les dispositifs de thrombectomie, comprenant les stents retrievers, les syst&#232;mes de thrombo-aspiration ainsi que les cath&#233;ters guide &#224; ballonnets sp&#233;cifiques &#224; la thrombectomie.&lt;/p&gt;
+&lt;p&gt;La p&#233;riode transitoire pr&#233;vue par arr&#234;t&#233; avant l'entr&#233;e en application de liste intra-GHS pour ces diff&#233;rentes cat&#233;gories est achev&#233;e.&lt;/p&gt;
+&lt;p&gt;Dans ces conditions, seuls les dispositifs inscrits sur la liste &#171; intra-GHS &#187; pour ces cat&#233;gories peuvent donc &#234;tre achet&#233;s et utilis&#233;s par les &#233;tablissements de sant&#233;.&lt;/p&gt;
+&lt;p&gt;Toutefois, il est &#224; noter que dans certains cas particuliers, des dispositifs appartenant &#224; ces cat&#233;gories peuvent &#234;tre inscrits et pris en charge au titre de la liste en sus, lorsqu'une demande d'inscription de ce type a &#233;t&#233; d&#233;pos&#233;e et que les dispositifs m&#233;dicaux r&#233;pondent &#233;galement aux conditions d'&#233;ligibilit&#233; de celle-ci.&lt;/p&gt;
+&lt;p&gt;Le sch&#233;ma ci-dessous liste les 10 cat&#233;gories homog&#232;nes de dispositifs m&#233;dicaux concern&#233;es par le dispositif &#171; intra-GHS &#187;.&lt;/p&gt;
+&lt;dl class='spip_document_365038 spip_documents spip_documents_center'&gt;
+&lt;dt&gt; &lt;a href='https://sante.gouv.fr/IMG/png/schema_dispositif_intra-ghs_octobre_21.png' class=&#034;spip_in&#034; title=' PNG - 43.7&#160;ko' type=&#034;image/png&#034;&gt; &lt;img src='https://sante.gouv.fr/local/cache-vignettes/L500xH281/schema_dispositif_intra-ghs_octobre_21-2c5a0.png?1680762629' width='500' height='281' alt='' /&gt; &lt;/a&gt;
+&lt;/dt&gt;
+&lt;/dl&gt;&lt;h3 class=&#034;spip&#034;&gt;Publication de la liste Intra-GHS&lt;/h3&gt;
+&lt;p&gt;Apr&#232;s la publication des arr&#234;t&#233;s d'inscription, la liste &#171; intra-GHS &#187; consolid&#233;e est rendue accessible sur cette page et est mise &#224; jour au fur et &#224; mesure de la publication de nouveaux arr&#234;t&#233;s.&lt;/p&gt;
+&lt;div class=&#034;doc-joint doc-joint--24 crayon document-titre-341705 &#034;&gt; &lt;span class=&#034;doc-joint__extension doc-joint__icone&#034;&gt;pdf&lt;/span&gt; &lt;span class=&#034;doc-joint__titre&#034;&gt;Liste intra-GHS (25 juin 2023)&lt;/span&gt; &lt;a href='https://sante.gouv.fr/IMG/pdf/liste_intra_ghs_25_06_23.pdf' title=&#034;Liste intra-GHS (25 juin 2023)&#034; type=&#034;application/pdf&#034; class=&#034;doc-joint__link pdf&#034;&gt; &lt;span class=&#034;doc-joint__libelle-lien&#034;&gt;T&#233;l&#233;chargement du pdf&lt;/span&gt; &lt;span class=&#034;doc-joint__taille&#034;&gt;(1.5&#160;Mo)&lt;/span&gt; &lt;/a&gt;
+&lt;/div&gt;&lt;h3 class=&#034;spip&#034;&gt;Recommandations &#224; l'attention des fabricants&lt;/h3&gt;
+&lt;p&gt;L'article R. 165-55 du code de la s&#233;curit&#233; sociale pr&#233;voit que &#171; les d&#233;cisions relatives &#224; l'inscription ou &#224; la modification des conditions d'inscription d'un produit sur la liste pr&#233;vue au I de l'article L. 165-11 sont publi&#233;es au Journal officiel. Elles sont prises et communiqu&#233;es dans un d&#233;lai de cent quatre-vingt jours &#224; compter de la r&#233;ception de la demande &#187;.&lt;/p&gt;
+&lt;p&gt;Ce d&#233;lai de 180 jours, correspond au temps n&#233;cessaire &#224; la Haute autorit&#233; de sant&#233; pour &#233;valuer les dispositifs et aux ministres comp&#233;tents pour prendre la d&#233;cision de les inscrire ou non sur la liste &#171; intra-GHS &#187;.&lt;/p&gt;
+&lt;p&gt;D&#232;s lors, pour chaque nouvelle cat&#233;gorie homog&#232;ne pr&#233;vue par arr&#234;t&#233;, les minist&#232;res charg&#233;s de la sant&#233; et de la s&#233;curit&#233; sociale et la Haute autorit&#233; de sant&#233; recommandent aux industriels de d&#233;poser leurs dossiers de demande au plus tard 180 jours avant la fin de la p&#233;riode transitoire pr&#233;vue, afin d'&#233;viter toute rupture de prise en charge, voire d'acc&#232;s aux soins pour le patient.&lt;/p&gt;
+&lt;h3 class=&#034;spip&#034;&gt;Modalit&#233;s de d&#233;p&#244;t des dossiers&lt;/h3&gt;
+&lt;p&gt;Pour toute demande d'inscription, de renouvellement ou de modification d'inscription sur la liste intra-GHS, l'int&#233;gralit&#233; du dossier doit &#234;tre d&#233;pos&#233; aupr&#232;s de la CNEDiMTS de fa&#231;on d&#233;mat&#233;rialis&#233;e comme indiqu&#233; sur le &lt;a href=&#034;https://www.has-sante.fr/jcms/c_464498/fr/deposer-un-dossier-d-evaluation-d-un-dispositif-medical&#034; class='spip_out' rel='external'&gt;site de la HAS&lt;/a&gt;. Une copie de l'int&#233;gralit&#233; du dossier doit &#234;tre adress&#233;e au minist&#232;re charg&#233; de la Sant&#233; &#224; l'adresse : &lt;a href=&#034;mailto:DGS-PP3@sante.gouv.fr&#034; class='spip_mail'&gt;DGS-PP3@sante.gouv.fr&lt;/a&gt;&lt;br class='autobr' /&gt;
+Vous mentionnerez un seul correspondant qui sera l'unique destinataire et interlocuteur des &#233;changes avec la HAS et le minist&#232;re charg&#233; de la Sant&#233; tout au long de l'instruction du dossier&lt;/p&gt;
+&lt;p&gt;Le sch&#233;ma ci-dessous r&#233;sume les &#233;tapes en vue d'une inscription sur la liste &#171; intra-GHS &#187; d'un dispositif m&#233;dical.&lt;/p&gt;
+&lt;dl class='spip_document_365039 spip_documents spip_documents_center'&gt;
+&lt;dt&gt; &lt;img src='https://sante.gouv.fr/local/cache-vignettes/L500xH281/schema_1-932dd.jpg?1680762630' width='500' height='281' alt='' /&gt; &lt;/dt&gt;
+&lt;/dl&gt;&lt;h3 class=&#034;spip&#034;&gt;Suivi en vie r&#233;elle des dispositifs m&#233;dicaux intra-GHS&lt;/h3&gt;
+&lt;p&gt;L'article L.162-17-1-2 du code de la s&#233;curit&#233; sociale pr&#233;voit notamment que la prise en charge des dispositifs m&#233;dicaux inscrits sur la liste intra-GHS puisse &#234;tre subordonn&#233; au recueil et &#224; la transmission d'informations relatives &#224; leurs utilisations en vie r&#233;elle. L'utilisation de l'identifiant unique des dispositifs (IUD), introduit par le r&#232;glement europ&#233;en 2017/745 relatif aux dispositifs m&#233;dicaux, permet d'assurer ce recueil et cette transmission d'information par les &#233;tablissements de sant&#233;. &lt;br class='autobr' /&gt;
+Dans ce contexte, un r&#233;f&#233;rentiel des IUD-ID (Identifiant dispositif propre &#224; un fabricant et &#224; un dispositif) des diff&#233;rents mod&#232;les et r&#233;f&#233;rences commerciales des dispositifs inscrits actuellement sur la liste &#171; intra-GHS &#187; est mis &#224; disposition des &#233;tablissements de sant&#233;.&lt;/p&gt;
+&lt;p&gt;Ce r&#233;f&#233;rentiel est disponible ici : &lt;a href='https://sante.gouv.fr/IMG/xlsx/referentiel_iud_dm_intra_ghs_25_06_23.xlsx' class='spip_in' type='application/vnd.openxmlformats-officedocument.spreadsheetml.sheet'&gt;R&#233;f&#233;rentiel IUD-ID des DM intra-GHS&lt;/a&gt; &lt;i&gt;(25 juin 2023)&lt;/i&gt;&lt;/p&gt;
+&lt;p&gt;Ce r&#233;f&#233;rentiel est mis &#224; jour &#224; chaque nouvelle inscription, modification d'inscription ou radiation des DM de la liste &#171; intra-GHS &#187;.&lt;/p&gt;
+&lt;p&gt;Dans ce cadre et afin de tenir &#224; jour ce r&#233;f&#233;rentiel l'IUD-ID devra d&#233;sormais &#234;tre renseign&#233; dans le dossier de d&#233;p&#244;t de demande d'inscription sur la liste intra-GHS pour toute nouvelle demande ou modification d'inscription (par exemple : ajout de r&#233;f&#233;rence).&lt;/p&gt;
+&lt;hr class=&#034;spip&#034; /&gt;
+&lt;p&gt;&lt;strong&gt;Source&lt;/strong&gt;&lt;br class='autobr' /&gt;
+Direction g&#233;n&#233;rale de la sant&#233; &lt;br class='autobr' /&gt;
+Sous-direction de la politique des produits de sant&#233; et de la qualit&#233; des pratiques et des soins &lt;br class='autobr' /&gt;
+Bureau des dispositifs m&#233;dicaux et des autres produits de sant&#233; &lt;br class='autobr' /&gt;
+14, avenue Duquesne &#8211; 75350 PARIS 07 SP &lt;br class='autobr' /&gt;
+Courriel : &lt;a href=&#034;mailto:DGS-PP3@sante.gouv.fr&#034; class='spip_mail'&gt;DGS-PP3@sante.gouv.fr&lt;/a&gt;&lt;/p&gt;
+&lt;hr class=&#034;spip&#034; /&gt;&lt;/div&gt;
+		
+		</content:encoded>
+
+
+		
+		<enclosure url="https://sante.gouv.fr/IMG/pdf/liste_intra_ghs_25_06_23.pdf" length="1586485" type="application/pdf" />
+		
+
+	</item>
+<item xml:lang="fr">
+		<title>Ressources documentaires &#224; l'attention des organismes de formation </title>
+		<link>https://sante.gouv.fr/prevention-en-sante/preserver-sa-sante/article/ressources-documentaires-a-l-attention-des-organismes-de-formation</link>
+		<guid isPermaLink="true">https://sante.gouv.fr/prevention-en-sante/preserver-sa-sante/article/ressources-documentaires-a-l-attention-des-organismes-de-formation</guid>
+		<dc:date>2017-07-26T11:58:35Z</dc:date>
+		<dc:format>text/html</dc:format>
+		<dc:language>fr</dc:language>
+		<dc:creator>Minist&#232;re de la Sant&#233; et de la Pr&#233;vention</dc:creator>
+
+
+		<dc:subject>Pr&#233;vention en sant&#233;</dc:subject>
+
+		<description>
+&lt;p&gt;La mise &#224; disposition du public d'un appareil de bronzage est encadr&#233;e par plusieurs textes qui pr&#233;cisent notamment les exigences en mati&#232;re de formation des personnes qui mettent &#224; disposition ces appareils (esth&#233;ticiennes&#8230;) &lt;br class='autobr' /&gt; - D&#233;cret n&#176;2013-1261 du 27 d&#233;cembre 2013 relatif &#224; la vente et &#224; la mise &#224; disposition du public de certains appareils utilisant des rayonnements ultraviolets Arr&#234;t&#233; du 29 juin 2017 relatif &#224; la formation pr&#233;alable &#224; la mise &#224; disposition ou &#224; la participation &#224; la mise &#224; (&#8230;)&lt;/p&gt;
+
+
+-
+&lt;a href="https://sante.gouv.fr/prevention-en-sante/preserver-sa-sante/" rel="directory"&gt;Pr&#233;server sa sant&#233;&lt;/a&gt;
+
+/ 
+&lt;a href="https://sante.gouv.fr/mot/prevention-en-sante-1024" rel="tag"&gt;Pr&#233;vention en sant&#233;&lt;/a&gt;
+
+		</description>
+
+
+ <content:encoded>&lt;div class='rss_chapo'&gt;&lt;p&gt;La mise &#224; disposition du public d'un &lt;strong&gt;appareil de bronzage&lt;/strong&gt; est encadr&#233;e par plusieurs textes qui pr&#233;cisent notamment les exigences en mati&#232;re de formation des personnes qui mettent &#224; disposition ces appareils (esth&#233;ticiennes&#8230;)&lt;/p&gt;&lt;/div&gt;
+		&lt;div class='rss_texte'&gt;&lt;p&gt;&lt;span class=&#034;spip-puce ltr&#034;&gt;&lt;b&gt;&#8211;&lt;/b&gt;&lt;/span&gt; &lt;a href=&#034;https://www.legifrance.gouv.fr/affichTexte.do?cidTexte=JORFTEXT000028398316&amp;dateTexte=20170726&#034; class='spip_out' rel='external'&gt;D&#233;cret n&#176;2013-1261 du 27 d&#233;cembre 2013&lt;/a&gt; relatif &#224; la vente et &#224; la mise &#224; disposition du public de certains appareils utilisant des rayonnements ultraviolets&lt;/p&gt;
+&lt;p&gt;&lt;span class=&#034;spip-puce ltr&#034;&gt;&lt;b&gt;&#8211;&lt;/b&gt;&lt;/span&gt; &lt;a href=&#034;https://www.legifrance.gouv.fr/affichTexte.do?cidTexte=JORFTEXT000035070657&amp;dateTexte=&amp;categorieLien=id&#034; class='spip_out' rel='external'&gt;Arr&#234;t&#233; du 29 juin 2017&lt;/a&gt; relatif &#224; la formation pr&#233;alable &#224; la mise &#224; disposition ou &#224; la participation &#224; la mise &#224; disposition d'un appareil de bronzage au public ainsi qu'aux modalit&#233;s de certification des organismes de formation et aux conditions d'accr&#233;ditation des organismes certificateurs&lt;/p&gt;
+&lt;p&gt;&lt;span class=&#034;spip-puce ltr&#034;&gt;&lt;b&gt;&#8211;&lt;/b&gt;&lt;/span&gt; &lt;a href='https://sante.gouv.fr/IMG/pdf/guide_de_lecture_du_referentiel_de_certification_des_organismes_de_formation_uv.pdf' class='spip_in' type='application/pdf'&gt;Guide de lecture du r&#233;f&#233;rentiel de certification des organismes de formation UV&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span class=&#034;spip-puce ltr&#034;&gt;&lt;b&gt;&#8211;&lt;/b&gt;&lt;/span&gt; &lt;a href='https://sante.gouv.fr/IMG/pdf/uv_edl_deploiement_certification.pdf' class='spip_in' type='application/pdf'&gt;&#201;l&#233;ments de langage relatifs au d&#233;ploiement de la certification des organismes de formation qui d&#233;livrent des attestations de comp&#233;tence&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span class=&#034;spip-puce ltr&#034;&gt;&lt;b&gt;&#8211;&lt;/b&gt;&lt;/span&gt; &lt;a href='https://sante.gouv.fr/IMG/pdf/exigences_formation_uv_vf.pdf' class='spip_in' type='application/pdf'&gt;Synth&#232;se des exigences en mati&#232;re d'attestation de formation pour mettre un appareil de bronzage &#224; disposition du public ou participer &#224; cette mise &#224; disposition&lt;/a&gt;&lt;br class='autobr' /&gt;
+&lt;i&gt;&#171; Attention : Au vu des exigences en mati&#232;re d'attestation de formation pour mettre un appareil de bronzage &#224; disposition du public ou participer &#224; cette mise &#224; disposition, les besoins en formation jusqu'&#224; fin 2018 se limitent &#224; des premi&#232;res formations nouvelle formule. Aucun candidat n'aura &#224; renouveler une attestation de comp&#233;tence par une formation de renouvellement avant le 1er janvier 2019 au plus t&#244;t. &lt;strong&gt;Une attestation de comp&#233;tence d&#233;livr&#233;e par un organisme de formation suite &#224; une formation de renouvellement avant 2019 ne sera pas conforme &#224; la r&#233;glementation en vigueur et donc non valide.&lt;/strong&gt; En outre, au regard du processus de certification, l'offre de formations de renouvellement &#224; la place de premi&#232;res formations par un organisme de formation sera formalis&#233;e par une non-conformit&#233; majeure. &#187;&lt;/i&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong class=&#034;caractencadre-spip spip&#034;&gt;Liste des organismes certificateurs&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Le seul organisme certificateur est QUALIANOR.&lt;/p&gt;
+&lt;p&gt;&lt;strong class=&#034;caractencadre-spip spip&#034;&gt;Liste des organismes de formation certifi&#233;s :&lt;/strong&gt;
+&lt;br&gt;
+&lt;br&gt;&lt;/p&gt;
+&lt;ul class=&#034;spip&#034;&gt;&lt;li&gt; 2CG - 90 route de Macon - 71300 GOURDON&lt;/li&gt;&lt;li&gt; CCPEC &#8211; 1-3 rue de l'Arquette &#8211; 14000 CAEN&lt;/li&gt;&lt;li&gt; Centre de formation et d'enseignement professionnel (CFEP) - 64 BIS RUE LA BOETIE - 75008 PARIS&lt;/li&gt;&lt;li&gt; Chambre de M&#233;tiers des Hauts de France, Antenne CMA de Tourcoing le Virolois - 78 rue des Piats - 59200 TOURCOING&lt;/li&gt;&lt;li&gt; Chambre de M&#233;tiers des Hauts de France, Antenne CMA de B&#233;thune - 223 Boulevard Vauban - 62400 BETHUNE&lt;/li&gt;&lt;li&gt; Chambre de M&#233;tiers des Hauts de France, Antenne CMA de Saint-Martin-Boulogne - rue Mont Joie - 62280 SAINT-MARTIN-BOULOGNE&lt;/li&gt;&lt;li&gt; Chambre de M&#233;tiers des Hauts de France, CFA de la Chambre de M&#233;tiers et de l'Artisanat de l'Aisne - 1 passage Brise B&#234;ches - 02400 CHATEAU-THIERRY&lt;/li&gt;&lt;li&gt; Chambre de M&#233;tiers et de l'Artisanat des Hauts de France - 383 Avenue des Arts et M&#233;tiers - 59880 SAINT SAULVE&lt;/li&gt;&lt;li&gt; Chambre de M&#233;tiers et de l'Artisanat de r&#233;gion Grand Est - CMA de Meurthe et Moselle - 4 rue de la Vologne - 54520 LAXOU&lt;/li&gt;&lt;li&gt; DG FORMATION PLUS &#8211; 6 rue Jacques de Vaucanson &#8211; 60200 COMPIEGNE&lt;/li&gt;&lt;li&gt; EISEC - 2 rue du Dauphin&#233; - 21121 FONTAINE LES DIJON&lt;/li&gt;&lt;li&gt; FB Formation Esth&#233;tique &#8211; 10 rue Sainte Opportune &#8211; 86000 POITIERS&lt;/li&gt;&lt;li&gt; FORMABELLE &#8211; 27 all&#233;e Jean Monnet &#8211; 34430 SAINT-JEAN-DE-VEDAS&lt;/li&gt;&lt;li&gt; GRETA de l'Oise &#8211; 2 rue Vincent De Beauvais (Lyc&#233;e des Jacobins) - 60000 BEAUVAIS&lt;/li&gt;&lt;li&gt; PEYREFITTE Esth&#233;tique - 24 quai Tilsitt - 69002 LYON&lt;/li&gt;&lt;li&gt; SILVYA TERRADE ARRAS - 114 rue saint Aubert - 62000 ARRAS&lt;/li&gt;&lt;li&gt; SILVYA TERRADE LYON - 73 rue Louis Blanc - 69006 LYON&lt;/li&gt;&lt;li&gt; SUSINI Esth&#233;tique - 384 avenue du Club hippique CS 10450 - 13090 AIX EN PROVENCE CEDEX&lt;/li&gt;&lt;/ul&gt;
+&lt;p&gt;&lt;strong class=&#034;caractencadre-spip spip&#034;&gt;Liste des organismes de formation dont le dossier de demande de certification a &#233;t&#233; jug&#233; recevable et pouvant d&#233;livrer une premi&#232;re formation dans l'attente de la certification : &lt;/strong&gt;
+&lt;br&gt;
+&lt;br&gt;
+&lt;strong&gt;NEANT&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;i&gt;Ces organismes de formation peuvent d&#233;livrer l'attestation de comp&#233;tence requise pour mettre &#224; disposition ou participer &#224; la mise &#224; disposition des appareils de bronzage. &lt;/i&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Source :&lt;/strong&gt;&lt;br class='autobr' /&gt;
+Direction g&#233;n&#233;rale de la Sant&#233; &lt;br class='autobr' /&gt;
+Sous-direction &#034;Pr&#233;vention des risques li&#233;s &#224; l'environnement et &#224; l'alimentation&#034;&lt;br class='autobr' /&gt;
+14 avenue Duquesne&lt;br class='autobr' /&gt;
+75350 Paris 07 SP&lt;/p&gt;&lt;/div&gt;
+		
+		</content:encoded>
+
+
+		
+
+	</item>
+<item xml:lang="fr">
+		<title>R&#233;glementation en mati&#232;re de pr&#233;vention des risques li&#233;s au bruit et aux sons amplifi&#233;s</title>
+		<link>https://sante.gouv.fr/sante-et-environnement/activites-humaines/article/reglementation-en-matiere-de-prevention-des-risques-lies-au-bruit-et-aux-sons</link>
+		<guid isPermaLink="true">https://sante.gouv.fr/sante-et-environnement/activites-humaines/article/reglementation-en-matiere-de-prevention-des-risques-lies-au-bruit-et-aux-sons</guid>
+		<dc:date>2017-08-09T16:23:10Z</dc:date>
+		<dc:format>text/html</dc:format>
+		<dc:language>fr</dc:language>
+		<dc:creator>Minist&#232;re de la Sant&#233; et de la Pr&#233;vention</dc:creator>
+
+
+
+		<description>
+&lt;p&gt;Les instances nationales et internationales (Acad&#233;mie de m&#233;decine, Organisation mondiale de la sant&#233;, Haut Conseil de Sant&#233; Publique&#8230;) alertent depuis plusieurs ann&#233;es sur les risques de plus en plus graves et fr&#233;quents de troubles de l'audition li&#233;s &#224; l'exposition &#224; des niveaux sonores &#233;lev&#233;s et la pr&#233;dominance de l'exposition &#224; la musique amplifi&#233;e dans la survenue de traumatismes sonores aigus. &lt;br class='autobr' /&gt; Diffusion de musiques et de sons amplifi&#233;s &lt;br class='autobr' /&gt;
+Les jeunes constituent une population particuli&#232;rement expos&#233;e. (&#8230;)&lt;/p&gt;
+
+
+-
+&lt;a href="https://sante.gouv.fr/sante-et-environnement/activites-humaines/" rel="directory"&gt;Activit&#233;s humaines&lt;/a&gt;
+
+
+		</description>
+
+
+ <content:encoded>&lt;div class='rss_chapo'&gt;&lt;p&gt;Les instances nationales et internationales (Acad&#233;mie de m&#233;decine, Organisation mondiale de la sant&#233;, Haut Conseil de Sant&#233; Publique&#8230;) alertent depuis plusieurs ann&#233;es sur les risques de plus en plus graves et fr&#233;quents de &lt;strong&gt;troubles de l'audition&lt;/strong&gt; li&#233;s &#224; l'exposition &#224; des niveaux sonores &#233;lev&#233;s et la pr&#233;dominance de l'exposition &#224; la &lt;strong&gt;musique amplifi&#233;e&lt;/strong&gt; dans la survenue de traumatismes sonores aigus.&lt;/p&gt;&lt;/div&gt;
+		&lt;div class='rss_texte'&gt;&lt;p&gt;&lt;strong&gt;Diffusion de musiques et de sons amplifi&#233;s&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Les jeunes constituent une population particuli&#232;rement expos&#233;e. L'OMS estime qu'1,1 milliards d'adolescents et de jeunes adultes sont expos&#233;s au risque de d&#233;ficience auditive &#224; cause de l'utilisation dangereuse de dispositifs audio personnels et de l'exposition &#224; des niveaux sonores nocifs dans certains lieux de loisirs, comme les bo&#238;tes de nuit, les bars, les festivals&#8230; A l'&#233;chelle de l'Union europ&#233;enne le nombre de jeunes adultes expos&#233;s &#224; des hauts niveaux sonores dans le cadre d'activit&#233;s extra-professionnelles a tripl&#233; depuis les ann&#233;es 1980.&lt;/p&gt;
+&lt;p&gt;La loi de modernisation de notre syst&#232;me de sant&#233; donne un cadre plus large &#224; la pr&#233;vention des risques en mati&#232;re de bruit. C'est notamment le cas de l'article L.1336-1 du code de la sant&#233; publique et de son &lt;a href=&#034;https://www.legifrance.gouv.fr/jo_pdf.do?id=JORFTEXT000035388481&#034; class='spip_out' rel='external'&gt;d&#233;cret d'application n&#176; 2017-1244 du 7 ao&#251;t 2017 relatif &#224; la pr&#233;vention des risques li&#233;s aux bruits et aux sons amplifi&#233;s&lt;/a&gt;, co-construit &#233;troitement avec les minist&#232;res charg&#233;s de l'environnement et de la culture.&lt;/p&gt;
+&lt;p&gt;Au regard de la r&#233;glementation pr&#233;c&#233;dente (1998), ce d&#233;cret est porteur de nombreuses avanc&#233;es permettant ainsi :&lt;/p&gt;
+&lt;p&gt;&lt;span class=&#034;spip-puce ltr&#034;&gt;&lt;b&gt;&#8211;&lt;/b&gt;&lt;/span&gt; une couverture plus importante des lieux concern&#233;s : les exigences concernent tous les lieux diffusant des sons amplifi&#233;s : bars, salles de concerts, discoth&#232;ques, festivals en plein air, salles de cin&#233;mas, &#8230;&lt;/p&gt;
+&lt;p&gt;&lt;span class=&#034;spip-puce ltr&#034;&gt;&lt;b&gt;&#8211;&lt;/b&gt;&lt;/span&gt; un &#233;largissement du champ aux lieux ouverts tels que les festivals en plein air pr&#233;c&#233;demment non concern&#233;s ;&lt;/p&gt;
+&lt;p&gt;&lt;span class=&#034;spip-puce ltr&#034;&gt;&lt;b&gt;&#8211;&lt;/b&gt;&lt;/span&gt; une meilleure protection de l'audition du public : abaissement des seuils autoris&#233;s, valeurs r&#233;duites pour les spectacles destin&#233;s principalement aux jeunes enfants, prise en compte de l'impact des basses fr&#233;quences, information du public sur les risques auditifs, mise &#224; disposition gratuite de protections auditives individuelles, am&#233;nagement d'espaces ou de p&#233;riodes de repos auditif ;&lt;/p&gt;
+&lt;p&gt;&lt;span class=&#034;spip-puce ltr&#034;&gt;&lt;b&gt;&#8211;&lt;/b&gt;&lt;/span&gt; une meilleure protection des riverains de ces lieux avec la possibilit&#233; pour les agents charg&#233;s du contr&#244;le de r&#233;aliser des constats &#224; l'oreille pour les troubles les plus manifestes, et une &#233;galit&#233; de traitement entre les riverains proches et &#233;loign&#233;s des lieux alors que jusqu'&#224; pr&#233;sent les &#233;mergences sonores &#233;taient moins exigeantes pour les riverains &#233;loign&#233;s.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Pour aller plus loin&lt;/strong&gt; et en tenant compte des mesures transitoires d'entr&#233;e en vigueur pr&#233;vues par le d&#233;cret n&#176; 2017-1244 du 7 ao&#251;t 2017 relatif &#224; la pr&#233;vention des risques li&#233;s aux bruits et aux sons amplifi&#233;s : &lt;br&gt;
+&lt;br&gt;&lt;/p&gt;
+&lt;ul class=&#034;spip&#034;&gt;&lt;li&gt; &lt;a href=&#034;https://www.legifrance.gouv.fr/affichCode.do;jsessionid=07CB92E834538AEBC3327CB2EFED1510.tplgfr28s_3?idSectionTA=LEGISCTA000035425903&amp;cidTexte=LEGITEXT000006072665&amp;dateTexte=20180813&#034; class='spip_out' rel='external'&gt;Articles R.1336-1 et suivants du code de la sant&#233; publique&lt;/a&gt;&lt;/li&gt;&lt;li&gt; &lt;a href=&#034;https://www.legifrance.gouv.fr/affichCode.do?idSectionTA=LEGISCTA000006189020&amp;cidTexte=LEGITEXT000006074220&amp;dateTexte=20150111&#034; class='spip_out' rel='external'&gt;Articles R.571-25 et suivants du code de l'environnement&lt;/a&gt;&lt;/li&gt;&lt;li&gt; &lt;a href=&#034;https://www.legifrance.gouv.fr/affichTexte.do?cidTexte=JORFTEXT000027799648&amp;categorieLien=id&#034; class='spip_out' rel='external'&gt;Arr&#234;t&#233; du 25 juillet 2013 portant application de l'article L. 5232-1 du code de la sant&#233; publique relatif aux baladeurs musicaux&lt;/a&gt;&lt;/li&gt;&lt;li&gt; &lt;a href=&#034;https://www.legifrance.gouv.fr/affichTexte.do?cidTexte=JORFTEXT000000743266&amp;categorieLien=id&#034; class='spip_out' rel='external'&gt;Arr&#234;t&#233; du 15 d&#233;cembre 1998 pris en application du d&#233;cret n&#176;98-1143 du 15 d&#233;cembre 1998 relatif aux prescriptions applicables aux &#233;tablissements ou locaux recevant du public et diffusant &#224; titre habituel de la musique amplifi&#233;e, &#224; l'exclusion des salles dont l'activit&#233; est r&#233;serv&#233;e &#224; l'enseignement de la musique et de la danse&lt;/a&gt;&lt;/li&gt;&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;Bruits de voisinage&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Les bruits dit &#171; de voisinage &#187; comprennent les bruits &#171; de comportement &#187; ou bruits domestiques ; les bruits provenant d'activit&#233;s professionnelles ou d'activit&#233;s culturelles, sportives ou de loisirs et les bruits r&#233;sultant de chantiers. La gestion de ces bruits rel&#232;ve de la comp&#233;tence du maire.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Bruits des transports&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Pour plus d'information sur les bruits de transports (trains, avions, circulation&#8230;) : consulter sur le site du minist&#232;re de la transition &#233;cologique et solidaire le dossier &lt;a href=&#034;https://www.ecologique-solidaire.gouv.fr/bruit-et-nuisances-sonores&#034; class='spip_out' rel='external'&gt;&#034;Bruit et nuisances sonores&#034;&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Pour en savoir plus :&lt;/strong&gt;&lt;/p&gt;
+&lt;ul class=&#034;spip&#034;&gt;&lt;li&gt; &lt;a href=&#034;https://www.legifrance.gouv.fr/affichCode.do;jsessionid=070DA75560DE4E0E798A228F0F2EC720.tplgfr24s_2?idSectionTA=LEGISCTA000035425901&amp;cidTexte=LEGITEXT000006072665&amp;dateTexte=20180607&#034; class='spip_out' rel='external'&gt;Articles R.1336-4 et suivants du code de la sant&#233; publique&lt;/a&gt;&lt;/li&gt;&lt;li&gt; &lt;a href=&#034;https://solidarites-sante.gouv.fr/IMG/pdf/guide_maire_bruits_voisinage.pdf&#034; class='spip_out' rel='external'&gt;Guide du maire relatif aux troubles de voisinage&lt;/a&gt;&lt;/li&gt;&lt;li&gt; &lt;a href=&#034;https://www.legifrance.gouv.fr/affichCodeArticle.do;jsessionid=D5AE2027756B63E6D34B7A229167F623.tplgfr37s_2?idArticle=LEGIARTI000032261978&amp;cidTexte=LEGITEXT000006074220&amp;dateTexte=20160319&#034; class='spip_out' rel='external'&gt;Article R571-32 et suivants du code de l'environnement&lt;/a&gt;&lt;/li&gt;&lt;li&gt; &lt;a href=&#034;https://www.acnusa.fr/fr/les-publications/rapports-dactivite/7&#034; class='spip_out' rel='external'&gt;Rapports d'activit&#233; de l'ACNUSA&lt;/a&gt; (Autorit&#233; de contr&#244;le des nuisances a&#233;roportuaires)&lt;/li&gt;&lt;/ul&gt;&lt;/div&gt;
+		
+		</content:encoded>
+
+
+		
+		<enclosure url="https://sante.gouv.fr/IMG/pdf/guide_maire_bruits_voisinage.pdf" length="3007761" type="application/pdf" />
+		
+
+	</item>
+<item xml:lang="fr">
+		<title>Technicien sanitaire et de s&#233;curit&#233; sanitaire principal - 3&#232;me concours</title>
+		<link>https://sante.gouv.fr/metiers-et-concours/les-concours/liste-des-concours-et-examens-par-ordre-alphabetique/article/technicien-sanitaire-et-de-securite-sanitaire-principal-3eme-concours</link>
+		<guid isPermaLink="true">https://sante.gouv.fr/metiers-et-concours/les-concours/liste-des-concours-et-examens-par-ordre-alphabetique/article/technicien-sanitaire-et-de-securite-sanitaire-principal-3eme-concours</guid>
+		<dc:date>2014-05-27T19:04:29Z</dc:date>
+		<dc:format>text/html</dc:format>
+		<dc:language>fr</dc:language>
+		<dc:creator>Minist&#232;re de la Sant&#233; et de la Pr&#233;vention</dc:creator>
+
+
+		<dc:subject>Professionnels</dc:subject>
+
+		<description>&lt;p&gt;Les techniciens sanitaires et de s&#233;curit&#233; sanitaire exercent des fonctions qui n&#233;cessitent des comp&#233;tences techniques dans les domaines d'activit&#233; suivants : Contr&#244;le des produits de sant&#233; en laboratoire ; Pr&#233;vention sant&#233;-environnement.&lt;/p&gt;
+
+-
+&lt;a href="https://sante.gouv.fr/metiers-et-concours/les-concours/liste-des-concours-et-examens-par-ordre-alphabetique/" rel="directory"&gt;Liste des concours et examens par ordre alphab&#233;tique&lt;/a&gt;
+
+/ 
+&lt;a href="https://sante.gouv.fr/mot/professionnels-1043" rel="tag"&gt;Professionnels&lt;/a&gt;
+
+		</description>
+
+
+ <content:encoded>&lt;div class='rss_texte'&gt;&lt;h3 class=&#034;spip&#034;&gt;Pr&#233;sentation des missions&lt;/h3&gt;
+&lt;p&gt;Les techniciens sanitaires et de s&#233;curit&#233; sanitaire exercent des fonctions qui n&#233;cessitent des comp&#233;tences techniques dans les domaines d'activit&#233; suivants :&lt;/p&gt;
+&lt;p&gt;1&#176; Contr&#244;le des produits de sant&#233; en laboratoire ;&lt;br class='autobr' /&gt;
+2&#176; Pr&#233;vention sant&#233;-environnement.&lt;/p&gt;
+&lt;p&gt;Sans pr&#233;judice des dispositions du code de la sant&#233; publique, les techniciens sanitaires et de s&#233;curit&#233; sanitaire participent :&lt;/p&gt;
+&lt;p&gt;1&#176; A l'ex&#233;cution des travaux confi&#233;s au personnel scientifique de laboratoire pour le contr&#244;le des produits de sant&#233;. Ils assurent, en particulier, l'organisation pratique, la r&#233;alisation et le compte rendu des essais et analyses dont ils ont la charge ;&lt;/p&gt;
+&lt;p&gt;2&#176; A des missions de surveillance sanitaire des milieux et modes de vie, aux actions de pr&#233;vention men&#233;es dans ce domaine et au contr&#244;le administratif et technique des r&#232;gles d'hygi&#232;ne vis&#233;es dans le code de la sant&#233; publique.&lt;/p&gt;
+&lt;p&gt;Pour l'exercice des missions mentionn&#233;es au code de la sant&#233; publique, ils portent le titre de technicien sanitaire.&lt;/p&gt;
+&lt;p&gt;Les techniciens sanitaires et de s&#233;curit&#233; sanitaire qui remplissent les conditions permettant l'usage professionnel du titre de di&#233;t&#233;ticien peuvent en outre contribuer au contr&#244;le de la qualit&#233; nutritionnelle de l'alimentation servie en collectivit&#233; ainsi qu'aux activit&#233;s de pr&#233;vention en sant&#233; publique relevant du champ de la nutrition.&lt;/p&gt;
+&lt;p&gt;Les techniciens principaux et les techniciens en chef ont vocation &#224; occuper les emplois relevant des domaines d'activit&#233; mentionn&#233;s ci-dessus qui n&#233;cessitent des qualifications particuli&#232;res sanctionn&#233;es par un niveau d'expertise acquis par la formation initiale, l'exp&#233;rience professionnelle ou la formation professionnelle tout au long de la vie. Ils peuvent &#234;tre amen&#233;s &#224; diriger et &#224; coordonner les travaux des techniciens et &#224; encadrer une &#233;quipe.&lt;/p&gt;
+&lt;h3 class=&#034;spip&#034;&gt;Textes de r&#233;f&#233;rence&lt;/h3&gt;
+&lt;p&gt;&lt;a href=&#034;https://www.legifrance.gouv.fr/affichTexte.do?cidTexte=JORFTEXT000027114846&amp;dateTexte=20180327&#034; class='spip_out' rel='external'&gt;D&#233;cret n&#176; 2013-176 du 27 f&#233;vrier 2013 portant statut particulier du corps des techniciens sanitaires et de s&#233;curit&#233; sanitaire&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#034;https://www.legifrance.gouv.fr/affichTexte.do?cidTexte=JORFTEXT000028933674&amp;dateTexte=20180327&#034; class='spip_out' rel='external'&gt;Arr&#234;t&#233; du 17 avril 2014 fixant la nature des &#233;preuves et les modalit&#233;s d'organisation des concours de recrutement pour l'acc&#232;s au corps des techniciens sanitaires et de s&#233;curit&#233; sanitaire&lt;/a&gt;&lt;/p&gt;
+&lt;h3 class=&#034;spip&#034;&gt;Conditions d'acc&#232;s&lt;/h3&gt;
+&lt;p&gt;&lt;strong&gt;Conditions requises :&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Le corps des techniciens sanitaires et de s&#233;curit&#233; sanitaire comprend trois grades ainsi d&#233;nomm&#233;s :&lt;/p&gt;
+&lt;p&gt;1&#176; Technicien ;&lt;br class='autobr' /&gt;
+2&#176; Technicien principal ;&lt;br class='autobr' /&gt;
+3&#176; Technicien en chef.&lt;/p&gt;
+&lt;p&gt;Les recrutements par la voie du troisi&#232;me concours pour l'acc&#232;s au grade de technicien principal sont ouverts aux candidats justifiant, au 1er janvier de l'ann&#233;e du concours, de l'exercice pendant quatre ans au moins d'une ou plusieurs des activit&#233;s professionnelles ou d'un ou plusieurs des mandats mentionn&#233;s au 3&#176; de l'article 19 de la loi n&#176; 84-16 du 11 janvier 1984 modifi&#233;e portant dispositions statutaires relatives &#224; la fonction publique de l'Etat.&lt;/p&gt;
+&lt;p&gt;Les activit&#233;s professionnelles prises en compte au titre de ce concours doivent avoir &#233;t&#233; exerc&#233;es dans des domaines correspondant aux missions d&#233;volues aux fonctionnaires du deuxi&#232;me grade du corps concern&#233;. Les p&#233;riodes au cours desquelles l'exercice d'une ou plusieurs activit&#233;s ou d'un ou plusieurs mandats aura &#233;t&#233; simultan&#233; ne seront prises en compte qu'&#224; un seul titre.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Comment s'inscrire :&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#034;http://ocean.siec.education.fr/&#034; class='spip_out' rel='external'&gt;Inscrivez-vous en ligne&lt;/a&gt;&lt;/p&gt;
+&lt;h3 class=&#034;spip&#034;&gt;Nature des &#233;preuves&lt;/h3&gt;
+&lt;p&gt;&lt;strong&gt;&#201;preuve &#233;crite d'admissibilit&#233; :&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;R&#233;solution d'un cas pratique &#224; partir d'un dossier &#224; caract&#232;re technique relatif au contr&#244;le des produits de sant&#233; en laboratoire ou &#224; la pr&#233;vention sant&#233;-environnement en fonction du domaine d'activit&#233; choisi par le candidat au moment de l'inscription. Le dossier peut &#234;tre assorti de plusieurs questions destin&#233;es &#224; mettre le candidat en situation de travail. Le dossier peut comporter des graphiques ainsi que des donn&#233;es chiffr&#233;es. Il ne peut exc&#233;der vingt pages (dur&#233;e : trois heures ; coefficient 2).&lt;/p&gt;
+&lt;div class=&#034;doc-joint doc-joint--24 crayon document-titre-226868 &#034;&gt; &lt;span class=&#034;doc-joint__extension doc-joint__icone&#034;&gt;pdf&lt;/span&gt; &lt;span class=&#034;doc-joint__titre&#034;&gt;Le programme&lt;/span&gt; &lt;a href='https://sante.gouv.fr/IMG/pdf/Le_programme-2.pdf' title=&#034;Le programme&#034; type=&#034;application/pdf&#034; class=&#034;doc-joint__link pdf&#034;&gt; &lt;span class=&#034;doc-joint__libelle-lien&#034;&gt;T&#233;l&#233;chargement du pdf&lt;/span&gt; &lt;span class=&#034;doc-joint__taille&#034;&gt;(92.2&#160;ko)&lt;/span&gt; &lt;/a&gt;
+&lt;/div&gt;
+&lt;p&gt; &lt;strong&gt;&#201;preuve orale d'admission&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Entretien avec le jury visant &#224; appr&#233;cier les acquis de l'exp&#233;rience, les aptitudes et la motivation du candidat &#224; exercer les fonctions correspondant au grade de recrutement et au domaine d'activit&#233; choisi par le candidat au moment de l'inscription (dur&#233;e : vingt minutes ; coefficient : 2).&lt;br class='autobr' /&gt;
+Pour conduire cet entretien, qui a pour point de d&#233;part un expos&#233; du candidat sur son exp&#233;rience professionnelle de cinq minutes au plus, le jury dispose des curriculums vitae des candidats admissibles ;&lt;/p&gt;
+&lt;p&gt;Les curriculums vitae sont remis au service organisateur &#224; une date fix&#233;e par arr&#234;t&#233; du ministre charg&#233; de la sant&#233;.&lt;/p&gt;
+&lt;p&gt;Les curriculum vitae ne doivent pas exc&#233;der deux pages.&lt;/p&gt;
+&lt;p&gt;Seul l'entretien avec le jury donne lieu &#224; notation. Le curriculum vitae n'est pas not&#233;.&lt;/p&gt;
+&lt;h3 class=&#034;spip&#034;&gt;Grille d'&#233;valuation&lt;/h3&gt;&lt;h3 class=&#034;spip&#034;&gt;Les aides &#224; la pr&#233;paration&lt;/h3&gt;
+&lt;p&gt;&lt;span class=&#034;spip-puce ltr&#034;&gt;&lt;b&gt;&#8211;&lt;/b&gt;&lt;/span&gt; &lt;a href='https://sante.gouv.fr/metiers-et-concours/les-concours/annales-numeriques-des-epreuves-ecrites/' class='spip_in'&gt;&lt;strong&gt;Les annales&lt;/strong&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span class=&#034;spip-puce ltr&#034;&gt;&lt;b&gt;&#8211;&lt;/b&gt;&lt;/span&gt; &lt;a href='https://sante.gouv.fr/metiers-et-concours/les-concours/resultats-composition-des-jurys-rapports-des-jurys-statistiques/' class='spip_in'&gt;&lt;strong&gt;Les rapports des jurys&lt;/strong&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span class=&#034;spip-puce ltr&#034;&gt;&lt;b&gt;&#8211;&lt;/b&gt;&lt;/span&gt; &lt;a href='https://sante.gouv.fr/metiers-et-concours/les-concours/resultats-composition-des-jurys-rapports-des-jurys-statistiques/' class='spip_in'&gt;&lt;strong&gt;La composition des jurys&lt;/strong&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;h3 class=&#034;spip&#034;&gt;Calendrier/modalit&#233;s d'inscription&lt;/h3&gt;
+&lt;p&gt;&lt;span class=&#034;spip-puce ltr&#034;&gt;&lt;b&gt;&#8211;&lt;/b&gt;&lt;/span&gt; &lt;a href='https://sante.gouv.fr/metiers-et-concours/les-concours/calendrier-et-modalites-d-inscription/article/calendrier-des-concours-et-examens' class='spip_in'&gt;&lt;strong&gt;Le calendrier&lt;/strong&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span class=&#034;spip-puce ltr&#034;&gt;&lt;b&gt;&#8211;&lt;/b&gt;&lt;/span&gt; &lt;a href='https://sante.gouv.fr/metiers-et-concours/les-concours/calendrier-et-modalites-d-inscription/article/modalites-d-inscription' class='spip_in'&gt;&lt;strong&gt;Modalit&#233;s d'inscription&lt;/strong&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;h3 class=&#034;spip&#034;&gt;Les r&#233;sultats&lt;/h3&gt;
+&lt;p&gt;&lt;span class=&#034;spip-puce ltr&#034;&gt;&lt;b&gt;&#8211;&lt;/b&gt;&lt;/span&gt; &lt;a href='https://sante.gouv.fr/metiers-et-concours/les-concours/resultats-composition-des-jurys-rapports-des-jurys-statistiques/' class='spip_in'&gt;&lt;strong&gt;R&#233;sultats admissibilit&#233; / admission / Statistiques&lt;/strong&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;h3 class=&#034;spip&#034;&gt;Les contacts &lt;/h3&gt;
+&lt;p&gt;&lt;strong&gt;Service organisateur : Maison des examens - SIEC (Arcueil)&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Pour toute demande de renseignements :&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Vous pouvez nous &#233;crire&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Minist&#232;re des Solidarit&#233;s et de la Sant&#233;&lt;br class='manualbr' /&gt;Direction des Ressources Humaines&lt;br class='manualbr' /&gt;Bureau du recrutement SD1C&lt;br class='manualbr' /&gt;14 avenue Duquesne&lt;br class='manualbr' /&gt;75350 PARIS 07 SP&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Ou nous contacter par mail, en remplissant le formulaire &lt;a href='https://sante.gouv.fr/metiers-et-concours/les-concours/nous-contacter/article/nous-contacter' class='spip_in'&gt;&#034;Qui contacter ?&#034;&lt;/a&gt;&lt;/strong&gt;&lt;/p&gt;&lt;/div&gt;
+		
+		</content:encoded>
+
+
+		
+		<enclosure url="https://sante.gouv.fr/IMG/pdf/Le_programme-2.pdf" length="94453" type="application/pdf" />
+		
+
+	</item>
+<item xml:lang="fr">
+		<title>Vague de chaleur dans le Sud-Est et en Corse : les autorit&#233;s sanitaires se mobilisent et rappellent les bons gestes de pr&#233;vention</title>
+		<link>https://sante.gouv.fr/actualites/presse/communiques-de-presse/article/vague-de-chaleur-dans-le-sud-est-et-en-corse-les-autorites-sanitaires-se</link>
+		<guid isPermaLink="true">https://sante.gouv.fr/actualites/presse/communiques-de-presse/article/vague-de-chaleur-dans-le-sud-est-et-en-corse-les-autorites-sanitaires-se</guid>
+		<dc:date>2023-07-07T16:42:59Z</dc:date>
+		<dc:format>text/html</dc:format>
+		<dc:language>fr</dc:language>
+		<dc:creator>Minist&#232;re de la Sant&#233; et de la Pr&#233;vention</dc:creator>
+
+
+
+		<description>
+&lt;p&gt;M&#233;t&#233;o France pr&#233;voit une hausse des temp&#233;ratures avec un pic de chaleur ce week-end et qui pourrait &#234;tre plus durable sur le quart sud-est du pays et en Corse. Dans ce contexte, les autorit&#233;s sanitaires et l'ensemble des pouvoirs publics sont fortement mobilis&#233;s, au niveau national comme au niveau local, pour anticiper et g&#233;rer l'impact sanitaire des fortes chaleurs. &lt;br class='autobr' /&gt; A partir du samedi 8 juillet, M&#233;t&#233;o France place en vigilance jaune Canicule 15 d&#233;partements situ&#233;s &#224; l'Est du pays, de l'Alsace &#224; la (&#8230;)&lt;/p&gt;
+
+
+-
+&lt;a href="https://sante.gouv.fr/actualites/presse/communiques-de-presse/" rel="directory"&gt;Communiqu&#233;s de presse&lt;/a&gt;
+
+
+		</description>
+
+
+ <content:encoded>&lt;div class='rss_chapo'&gt;&lt;p&gt;M&#233;t&#233;o France pr&#233;voit une hausse des temp&#233;ratures avec un pic de chaleur ce week-end et qui pourrait &#234;tre plus durable sur le quart sud-est du pays et en Corse.&lt;br class='autobr' /&gt;
+Dans ce contexte, les autorit&#233;s sanitaires et l'ensemble des pouvoirs publics sont fortement mobilis&#233;s, au niveau national comme au niveau local, pour anticiper et g&#233;rer l'impact sanitaire des fortes chaleurs.&lt;/p&gt;&lt;/div&gt;
+		&lt;div class='rss_texte'&gt;&lt;p&gt;A partir du samedi 8 juillet, M&#233;t&#233;o France place en vigilance jaune Canicule 15 d&#233;partements situ&#233;s &#224; l'Est du pays, de l'Alsace &#224; la r&#233;gion lyonnaise, jusque vers la r&#233;gion Provence-Alpes-C&#244;te-d'Azur et la Corse : Ain (01), Alpes-Maritimes (06), Ard&#232;che (07), Corse-du-Sud (2A), Haute-Corse (2B), C&#244;te-d'Or (21), Dr&#244;me (26), Is&#232;re (38), Jura (39), Bas-Rhin (67), Haut-Rhin (68), Rh&#244;ne (69), Sa&#244;ne-et-Loire (71), Var (83) et Vaucluse (84).&lt;/p&gt;
+&lt;p&gt;La dur&#233;e de cet &#233;pisode n'est pas encore enti&#232;rement connue, mais le Sud-Est devrait &#234;tre durablement concern&#233;. Le reste de la France restera &#224; l'&#233;cart du risque caniculaire.&lt;/p&gt;
+&lt;h4 class=&#034;spip&#034;&gt;Canicule, fortes chaleurs : adoptez les bons r&#233;flexes !&lt;/h4&gt;
+&lt;p&gt;Les autorit&#233;s sanitaires rappellent donc les principaux conseils pour se prot&#233;ger et prot&#233;ger son entourage, en particulier les plus fragiles en cas de fortes chaleurs :&lt;/p&gt;
+&lt;ul class=&#034;spip&#034;&gt;&lt;li&gt; Restez au frais (chez vous ou dans un lieu rafra&#238;chi)&lt;/li&gt;&lt;li&gt; Buvez de l'eau (sans attendre d'avoir soif)&lt;/li&gt;&lt;li&gt; Mouillez-vous le corps&lt;/li&gt;&lt;li&gt; Fermez les volets et fen&#234;tres le jour, a&#233;rez la nuit&lt;/li&gt;&lt;li&gt; Privil&#233;giez les activit&#233;s douces et sans effort&lt;/li&gt;&lt;li&gt; Mangez frais, &#233;quilibr&#233; et en quantit&#233; suffisante&lt;/li&gt;&lt;li&gt; Evitez l'alcool&lt;/li&gt;&lt;li&gt; Prenez des nouvelles de vos proches et des plus fragiles&lt;/li&gt;&lt;/ul&gt;
+&lt;p&gt;Il est aussi rappel&#233; aux responsables de structures d'accueil collectif, en particulier les centres de loisirs, EHPAD et &#233;tablissements de sant&#233; de prendre toutes les dispositions qui s'imposent pour prot&#233;ger les personnes fragiles et favoriser leur hydratation.&lt;/p&gt;
+&lt;p&gt;Les employeurs doivent &#233;valuer les risques et prendre les d&#233;cisions qui s'imposent, notamment l'am&#233;nagement des horaires afin de limiter l'exposition des salari&#233;s aux temp&#233;ratures les plus fortes de la journ&#233;e et le report des taches p&#233;nibles, notamment dans le secteur du b&#226;timent et des travaux publics.&lt;/p&gt;
+&lt;h4 class=&#034;spip&#034;&gt;Pour en savoir plus :&lt;/h4&gt;&lt;ul class=&#034;spip&#034;&gt;&lt;li&gt; Minist&#232;re de la Sant&#233; et de la Pr&#233;vention &#8211; &lt;a href=&#034;https://sante.gouv.fr/sante-et-environnement/risques-climatiques/article/les-vagues-de-chaleur-et-leurs-effets-sur-la-sante&#034;&gt;Vagues de chaleur&lt;/a&gt;&lt;/li&gt;&lt;li&gt; Sant&#233; publique France &#8211; &lt;a href=&#034;https://www.santepubliquefrance.fr/determinants-de-sante/climat/fortes-chaleurs-canicule&#034; class='spip_out' rel='external'&gt;Fortes chaleurs, canicule&lt;/a&gt;&lt;/li&gt;&lt;li&gt; M&#233;t&#233;o-France diffuse deux fois par jour un bulletin de vigilance &#8211; &lt;a href=&#034;https://vigilance.meteofrance.fr/fr&#034; class='spip_out' rel='external'&gt;vigilance.meteofrance.fr&lt;/a&gt;&lt;/li&gt;&lt;li&gt; Portail internet des ARS pour les informations et recommandations locales sp&#233;cifiques &#8211; &lt;a href=&#034;https://www.ars.sante.fr/&#034; class='spip_out' rel='external'&gt;ars.sante.fr&lt;/a&gt;&lt;/li&gt;&lt;/ul&gt;&lt;/div&gt;
+		
+		</content:encoded>
+
+
+		
+
+	</item>
+
+</channel>
+
+</rss>
